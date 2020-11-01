@@ -1,0 +1,362 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJ685WIFYViEgRHlHvBbiD5nE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "partial_match": true,
+      "place_id": "ChIJGwMcNyMziUgRIUhUCOM-oM0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 56.8210888,
+          "lng": -4.250382099999999
+        },
+        "southwest": {
+          "lat": 55.8644561,
+          "lng": -5.2326195
+        }
+      },
+      "copyrights": "Map data ©2020",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "9:11pm",
+            "time_zone": "Europe/London",
+            "value": 1604265060
+          },
+          "departure_time": {
+            "text": "6:03pm",
+            "time_zone": "Europe/London",
+            "value": 1604253811
+          },
+          "distance": {
+            "text": "151 km",
+            "value": 151042
+          },
+          "duration": {
+            "text": "3 hours 7 mins",
+            "value": 11249
+          },
+          "end_address": "Fort William, UK",
+          "end_location": {
+            "lat": 56.8210888,
+            "lng": -5.104476099999999
+          },
+          "start_address": "Glasgow, UK",
+          "start_location": {
+            "lat": 55.8644561,
+            "lng": -4.251976
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 287
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 236
+              },
+              "end_location": {
+                "lat": 55.8656703,
+                "lng": -4.2514388
+              },
+              "html_instructions": "Walk to Buchanan Bus Station (Stance 56)",
+              "polyline": {
+                "points": "{_~sIzm}XmA]K`C_@EECAEEGCCCCC?g@M}@UANc@KICHuBHBAJVDB_@BA@A?A@C@A"
+              },
+              "start_location": {
+                "lat": 55.8644561,
+                "lng": -4.251976
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "45 m",
+                    "value": 45
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 32
+                  },
+                  "end_location": {
+                    "lat": 55.8648485,
+                    "lng": -4.251833299999999
+                  },
+                  "html_instructions": "Head <b>north</b> toward <b>Killermont St</b>",
+                  "polyline": {
+                    "points": "{_~sIzm}XmA]"
+                  },
+                  "start_location": {
+                    "lat": 55.8644561,
+                    "lng": -4.251976
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "41 m",
+                    "value": 41
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 29
+                  },
+                  "end_location": {
+                    "lat": 55.8649143,
+                    "lng": -4.252475899999999
+                  },
+                  "html_instructions": "Turn <b>left</b> onto <b>Killermont St</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "ib~sI|l}XK`C"
+                  },
+                  "start_location": {
+                    "lat": 55.8648485,
+                    "lng": -4.251833299999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "92 m",
+                    "value": 92
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 68
+                  },
+                  "end_location": {
+                    "lat": 55.8657096,
+                    "lng": -4.252140799999999
+                  },
+                  "html_instructions": "Turn <b>right</b> toward <b>Cowcaddens Rd</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "ub~sI~p}X_@EECAEEGCCCCC?g@M}@U"
+                  },
+                  "start_location": {
+                    "lat": 55.8649143,
+                    "lng": -4.252475899999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "31 m",
+                    "value": 31
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 37
+                  },
+                  "end_location": {
+                    "lat": 55.8659471,
+                    "lng": -4.2521434
+                  },
+                  "html_instructions": "Slight <b>left</b> toward <b>Cowcaddens Rd</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-slight-left",
+                  "polyline": {
+                    "points": "ug~sIzn}XANc@KIC"
+                  },
+                  "start_location": {
+                    "lat": 55.8657096,
+                    "lng": -4.252140799999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "37 m",
+                    "value": 37
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 27
+                  },
+                  "end_location": {
+                    "lat": 55.8659027,
+                    "lng": -4.251551099999999
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Cowcaddens Rd</b>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "ei~sIzn}XHuB"
+                  },
+                  "start_location": {
+                    "lat": 55.8659471,
+                    "lng": -4.2521434
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "9 m",
+                    "value": 9
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 11
+                  },
+                  "end_location": {
+                    "lat": 55.86586020000001,
+                    "lng": -4.251627399999999
+                  },
+                  "html_instructions": "Take the crosswalk",
+                  "polyline": {
+                    "points": "{h~sIdk}XHBAJ"
+                  },
+                  "start_location": {
+                    "lat": 55.8659027,
+                    "lng": -4.251551099999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "25 m",
+                    "value": 25
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 27
+                  },
+                  "end_location": {
+                    "lat": 55.8657225,
+                    "lng": -4.2514961
+                  },
+                  "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "sh~sItk}XVDB_@"
+                  },
+                  "start_location": {
+                    "lat": 55.86586020000001,
+                    "lng": -4.251627399999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "7 m",
+                    "value": 7
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 5
+                  },
+                  "end_location": {
+                    "lat": 55.8656703,
+                    "lng": -4.2514388
+                  },
+                  "html_instructions": "Slight <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-slight-right",
+                  "polyline": {
+                    "points": "wg~sIzj}XBA@A?A@C@A"
+                  },
+                  "start_location": {
+                    "lat": 55.8657225,
+                    "lng": -4.2514961
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "151 km",
+                "value": 150755
+              },
+              "duration": {
+                "text": "3 hours 6 mins",
+                "value": 11160
+              },
+              "end_location": {
+                "lat": 56.8210888,
+                "lng": -5.104476099999999
+              },
+              "html_instructions": "Intercity bus towards Fort William",
+              "polyline": {
+                "points": "kf~sIxk}Xk@_@AAAA?CAE?I@K?K@G?EBEJqB?GAE?CAAAEAACCWGEv@Cn@AZ?D@D?F?FChAItB?LAR?BCVAZGt@ANCN?HAHCPE\\ABE\\GXAJENCPKf@Mh@Mn@GZE\\ETCPCTCXCVGj@?DAHAFEHMpCKjBARATAPAP?B?B?B?F?P?PAPAJCXCRCRCPCRCPEPETELOr@GRCFCHCFCDCDEFQ\\_@n@[h@s@pACHA\\KbAANQpF_@~Gc@rHI|@?\\?PCb@En@Cn@C^APCNEPENELINKPEFIHGHaBlB]^EHQRs@v@g@l@g@n@kCxC_@d@[\\ABA@CFIJ?@C@A?C?{@rD_@`Bg@~B]zAAHaAdEgAvEK^{@xDOr@k@hCKb@Kd@Or@K`@]xA]vAQ|@UbAKb@q@vCCJKh@I^U~@a@fBMh@Op@Ml@Ox@Kb@Qz@Ml@a@nBOl@u@xD{@nEGTCPa@pB[~AMb@m@`DEPKf@_@fB[rAm@dCe@jBaA`EYjAc@hBGRWdAyAfGkAxEI\\WhAg@tBoAfFU|@w@`Dy@hDGXqAjFc@lBk@`CaAbEOh@Md@Mh@kAbF_@zAYnAQr@U`Ag@tBsAxFc@jBGRA\\GTQx@ADGVI\\WhAEXI`@I\\WfAk@rBe@jBe@lBG^Uv@EP}AfG?BQp@YfASv@cA`Ea@|AENWbAUv@e@jBYnAc@nBSt@iAxESt@s@rCEL_@bBe@jBYfAK^WfAc@bBU`ACF[nA]pAGRe@|ASt@U~@Ml@Sx@W~@WdA[fAwB`ISr@[hASt@Qj@St@k@rBU~@k@tBw@pCg@hBCJSr@]tAWfAI^Mr@SpACTE\\Ed@Gr@E`@Ch@GfACr@Ev@GnAQtDCh@Ch@Cx@Gv@ALCXGj@CPAJ?BGd@YdB_@jBMb@Oj@Kd@a@fA_@bAc@x@?@k@`A}@lAcElE}B~BoD|DSVaBjBGFUVCBKLOTOROVKPIRUf@KVQ`@Qh@Md@Sp@ADMl@Qt@G^G^QxAOtBGbAAn@Ax@CzBAfDCxEA`CAb@?PAr@C|CC`GA`BAlA?DAnA@vA?n@@l@BbBD`BDhABXFdBDh@LjCJbCLxCFrBBjBBfE?h@?~DAvBEfCEx@InBCb@APAXOvCMpBQnBAJWrBIt@UpB_@fCQbAUpAO~@i@bCYnAADSdAg@fB]lAy@jCGPGNk@zAo@bBQb@OXc@|@k@fA[l@U`@gB|CeAbBaBjC_@h@KNw@lAqBfDCBmApBQXgBrCg@t@W^]j@[f@UZEH_@l@ILU`@O\\@LANARCPGRKVKLIDMDIBGACAECOR_@f@}BtDeC|DIL]j@eAdBc@t@kBdDaAhB]p@kA|Be@bA}@hB}AdD_BjDiBhE_AzBwAlDoAfDwA|Dy@zBe@pAYz@g@zAg@xAs@xBo@tBgAhDSn@HJ{uEbi\\}zHf~GEY}B~AyB~AiA`Ai@d@cA|@kBpB{@~@}@bAgAtAY`@CBcAxA_@j@g@v@W^qApBGJqB|Ck@|@eA|AYb@uAhBcBdBo@l@s@j@kBxAMHeEdDqGdFsBzAiAx@uAdA}@r@F\\ajJ~dDDgAg@GWA[AY@W?s@F}ARsAVeBXyARKBoAJSBu@Fo@F_@BmAHw@DUBu@Bi@@u@@u@?Y?gBAkACa@AeAGkAG}@G_AIaAK}@I]GSCOCm@Km@Kq@O}@Sa@Km@O}@WGAy@Qo@Mi@Ga@Ea@A_@?c@@g@Dc@Dm@LUFYF_@Nk@Re@Vc@Te@`@m@f@IH]^e@h@]`@WZ[^UXIJSV[\\W\\_@b@c@d@a@`@_@ZKHWRk@`@a@V_@V_@PKDk@T_@Nk@Pi@Lg@Ji@H_@Bi@DOBa@?s@?aA?{CCcACUAkBGkBEc@CqBI}AGgAGiBO_BIaAIyAOA?iBSE?qAOa@EAPyzGpfCwiJl`HmhHEsiIn`AA_@QBC?UF[JmAf@o@X_Bp@i@Tc@NmAb@YLSLMJQRYZg@r@Y^YXMLMJe@XOHa@PGB}@XUHYLSNc@`@q@j@QPe@TUL]P}BdA{At@_Bn@OF_Bl@{@Ve@Nm@Py@VYHu@XQDG@K?Y@iBQgAIa@COAkBQmBQqCSoBOa@Cg@KUEWKWKm@Ww@a@GE{@k@k@c@m@e@k@g@i@i@_@_@YQSIUGQEo@Ma@I{B]s@Mo@KqBWOAg@Ei@CW?YB]Dk@?WEUIGCYUe@g@g@i@{AyA}@cAWYU[QMMGSEWC_AJA?a@DMB}ARaBTsBVa@DA?_AL@ZkuKebSshGfxPk`OnmJqnWhjJ}kDhkp@CSYPOJgChBy@n@{@p@IDa@Zu@n@]ZkA|Am@x@EFQVSZS^a@~@_@|@Sh@Ut@]nA[pAWpAW|Aa@bCIn@YnBO~@Mt@a@jBW|AS~@I\\K`@GTQn@ADa@nAITWn@Sh@a@r@[p@Yb@c@n@Y^q@v@ED}A|A}AxA}CvCcA~@c@b@a@b@a@d@a@l@Wf@Sb@e@rAELMb@Sx@WxAKt@Ir@?@Iz@?BGvBGjEGbEA`ACpA?h@C`AA`AA~@A`AAb@EzCEpEAdAGlDErC?BAlA?n@A~B?F?XB|BDbABl@@PHlALdBNpAP|A`AtI`@lDVvCXhEXbFBv@D`AD~@B~@?@D~@FjBBbADnBD`C@n@@P@~@Bz@@fA@nA?p@@dC@|@?`A?@BfB@tB?d@@~@@d@B|ABdA@z@P~E?@J`C?F@D@\\HrAHMJGPEF?N?R@RFDBZN\\Xh@^f@j@R\\NTf@fAJ\\Tr@Lz@DVJtAHdBFrADjAJrBBfA@T?Bh@lMB~@D`AHrBPfDFxA?ZBpADrB?n@@lA?r@?NANALCPqAl@PdDLjBFrANbD?\\F`CDrBBjA@vBBzC@fA?z@AnA?p@Az@IfCOlCQdCOvBQrBq@`HCPYxBCJKn@QbAOx@c@dBG\\m@rBk@dBKXaArCc@lA_@dA_D~Ic@rAUr@_@nA{@nDEPQx@Qv@EPm@tDId@Mx@Mz@Mv@k@fDe@dCYpAYlAk@~Be@~AIVk@|BS|@On@K^c@fBa@lBAHQx@[~Au@bEADMr@c@~BYxAAHE~A@B@B?B@B?B@B?B?D?B?B?B?B?BAB?BAB?BABABA@?BA@A@A@ABG\\ENMd@OdB{@rIEf@_@zDI|@YpCADSxAUvASz@IXQj@u@hBi@x@CDW\\_@\\[RiAl@YLUD_ALM@y@Ba@Be@Ac@?Q?_A@Y?gAAc@?_DAk@?sA@[?G?mBCiBDA?mCQkBQMAy@Ma@GA?a@GSE_AOg@K]GgAQKA{@M[Ek@Ga@CUCM?c@?_@?C@c@D}@JsAZ_@LWHk@ZcAj@QHm@b@_@XUNKFw@j@i@h@IJQTILGJOb@CFOh@?BIZE^Gh@AR?NEpBA`AA~@Ad@AZA`AA`AA~@C`AAdACz@GvBC|ACn@?rA@~@@@Hz@H~@F|@H~@?BFjB?PBjBAvA@NARB|C?B?n@?N@p@?pA@tA?lA?NAf@Cf@ALC`@ANCNGl@M|@e@~CU`BUpB]jCIt@i@hEANAFWfB]lCQhA?D[rB?Be@zBa@~A?@I^On@SvAGx@Cb@AL?^?B?r@@h@@`@D^B\\Jz@Fx@Fz@@LBz@@D?\\@h@?p@AHAb@AZ?JCt@C`A?D?T?^Br@@t@@`A?t@Cr@Cf@GpAGxAQfDEx@OlCCr@A^E~@C`AE`BG`CAv@?hB?|@?B?`A?`A?b@?Z@PCl@?@Gr@AJGn@ALO~AEd@E\\It@ATAHAJCVAX?@AV?RAP?B?N?Z@`@@r@Bf@@ZB^Df@B`@B^@^FdALbCBb@Dh@@`@@`@?R?HAf@ALARC^Gt@KrAEr@CXIx@KrAARMxACRGXCPGTIRGRINENIL{BfCONWTUTaA~@k@f@c@d@qAtAm@d@OLKDIDIBG@G@ODO?S@KAIAKAICICGEYO_@SSMaAm@k@e@SQ_@]_@_@Y[o@u@y@cAIKw@aAYW?A_@[GIm@e@q@e@s@a@IEMGSKOG]Oc@Os@W}@]{@]KEKG_@WUS]]OQYYSWe@i@CASOKIGEMEMEy@IqB?}@?[@IBIDKFIDEDGFEDKNWb@Md@GVCRE\\G`@M|@CPGVCNCHCHKZSb@Yf@eArBOVyBfEu@vAYj@A@Wh@Yl@]j@INIHGHGFEDGDGDQLQFIBMBMBK@M?G?GAIAC?OEMEOGMIQKQQSS]]q@q@WWACIICEEEMKKIICICGAGCYEG@G?IBKBKDGBGDKHOJg@d@GB_@\\_@XOJMFMHMFC?@V_jLyaODQOSaAuAAAYc@_@k@g@}@g@aAeAqBWc@Uc@gA}A_@i@SY[e@KOQWMUMSSa@AC[k@iBoDQ[}@cBi@cAEISa@[k@Yk@i@cAKQACWg@u@wACEWa@A?Y[CCIGMIQO_@]MKGGOOGEKKKMCEY][_@ACiAyAU]gAsAu@cA[a@AAc@g@WUq@m@OM_BwA_@]cA_Ag@c@iD}C_@]}@y@iAgAUSoBgBGIm@i@a@a@k@o@i@k@WWcBkBQQe@i@[]a@g@a@k@k@{@EEy@sAYe@GKUWIKSUSSKK]a@Y[g@k@_AiAOUAAMUUc@e@cAo@qAUe@IKIOe@o@EEg@k@sAwA[][a@CEMSOWOa@EMYu@K[Yy@Oa@QWEEUYs@q@QOsA_BKQMSm@}@[g@y@mAEIEGe@u@MSy@uACC_AeBMUgAuBAA}@gBo@mAa@s@_@u@s@yAs@sA[k@[m@Ua@cB{C{AiCa@q@g@m@g@m@g@MC@A@CBC?A@C?C?C?CACCCCCCCECEAGAGy@iAmBeDQ[MSACs@eB]y@k@uAm@uA]s@Wc@c@o@y@}@_@a@MOOSU[k@aAYk@S]_AeBeAsBu@yAYm@]u@a@iAYgAKc@ISKSE?A?A?CAC?CCCAACCCACCEAA?AAEAEAG?EAE?G?E?G?E@G?E@E@E@EBE@CBGBC@A@CBA@ABAB?@AB?@@B?B@JKLS\\y@Z{@Lm@@IPy@Fi@G]EOACACAACAI?SHC@Nz@BT@T?NCLETEJMh@ELCJEFEFCBC@E@C?E?A?CAA?CEEMCOE[IcAIgAOuAi@sEMH"
+              },
+              "start_location": {
+                "lat": 55.865505,
+                "lng": -4.25165
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.8210888,
+                    "lng": -5.104476099999999
+                  },
+                  "name": "Bus Station"
+                },
+                "arrival_time": {
+                  "text": "9:11pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604265060
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 55.865505,
+                    "lng": -4.25165
+                  },
+                  "name": "Buchanan Bus Station (Stance 56)"
+                },
+                "departure_time": {
+                  "text": "6:05pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604253900
+                },
+                "headsign": "Fort William",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Scottish Citylink",
+                      "url": "http://www.citylink.co.uk/"
+                    }
+                  ],
+                  "name": "Glasgow - Fort William",
+                  "short_name": "914",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Intercity bus",
+                    "type": "INTERCITY_BUS"
+                  }
+                },
+                "num_stops": 30
+              },
+              "travel_mode": "TRANSIT"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "{_~sIzm}XmA]K`Ce@IOUk@M}@UANm@ORqBTPFa@DI`@h@k@_@CC?_@NcDIMWGEv@EjA@ZO`FSvCcBtJcAvNGjBe@tCq@tBmAvBw@zAM`BwAtYMpCe@pEsO`RuAlEyH~\\aIb^wJze@}ElToIp]{Sd|@aId^m\\~rAaMhe@gG|T}BxKcBjZ}AhJ}A|EmCjEiSrTsBtDoBlHq@rHIlKSf]H~OfApWF|OWhLqAhQqArJiBdJ{A`GuBhGuB~EeEtHoMtSoG|JoAzBEbAi@~@c@DsDlFsF|I}NhYaJ~SgGrP}CjJwB~GIz@{uEbi\\}zHf~GEY}B~AcE`DmBbBmHjIaCjDwKrPyDnEcBxAqQnNqInGF\\ajJ~dDDgAuBI}Fr@uLtAaKZ{GOkGe@kIuAuCu@uDm@mCDaCb@uCpA{BrBgEbFmFdFmBfAaDdA{C^gDBaUm@_PoAsBU{zGbgCwiJl`HmhHEsiIn`AA_@UBq@RgGhC_DnAaBnBoArA_Bx@aC`AmCtBmGzCkG|BcGdBwMcAkIs@sBu@gDwBcDwCuAi@aGcAyEk@yBDaBScEaE}BgCa@MwAFoC\\yFr@_AL@ZkuKebSshGfxPk`OnmJqnWhjJ}kDhkp@CSi@\\aExC}CbC}CzD{ArCgBlFmBdKyC|P_ClH{BxDoDzDcJtI}B~CmAhDaA|Fg@|Uk@ri@LhGh@vGlCxV|@fPf@bRNlOJjNf@jQBb@HrAHM\\MV?hA\\bCbCxAnDh@nGlAb[r@hU?`DE^qAl@PdDT~DN`ERxLBnJ[bKeBrSm@fEmA`GgDfKgGfQwBdIkClOeClMgCtJeDfOiB|J[bBCbBBN@PC^MVk@xDkBtReAhIeBjFeBzBuCtAiDV{C?iMAgJOuEi@qGeAmGc@yDn@gD~AmF`EqAdD[fKYzOE`H\\zDRhLFhOY|EsDlYkC`Q{@pDa@bEL`Fd@hIMdG?rJcAnTSjQKbGs@vHK`CRlGj@zKO~E_ApL_AvC}KfL}BlAaBQoFuD_G}GgFmDwGiC{DyDu@e@wFO{@R]Xy@pB_@pCqAtDsIpPwAhB{@\\o@DcBm@}CaD}Ao@mAb@kDjCQF@V_jLyaOIe@cAwAiCoE{DwG}C}E{GoM_EwHaCaC}J_MwZaYgI{IgFsH}EuFkDyGmFoGcCiGaF_G}FeJaUgb@iA_BoA{@MF]KsE{HcFgLkC_DkB}CoEqIsBuFg@kAKAU[Gu@Lo@XWJ?z@wA|@mDG{AQGWJRpAGhAYbAa@b@MAS_AmAuLMH"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

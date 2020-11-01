@@ -1,0 +1,451 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJkcOw-DXgi0gRTh-WqD69jxQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJASAsjzgTiUgREB0h8g5rbqM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 56.4734634,
+          "lng": -4.972120299999999
+        },
+        "southwest": {
+          "lat": 56.3868068,
+          "lng": -5.706289000000001
+        }
+      },
+      "copyrights": "Map data ©2020",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "7:08pm",
+            "time_zone": "Europe/London",
+            "value": 1604257684
+          },
+          "departure_time": {
+            "text": "4:59pm",
+            "time_zone": "Europe/London",
+            "value": 1604249978
+          },
+          "distance": {
+            "text": "56.3 km",
+            "value": 56254
+          },
+          "duration": {
+            "text": "2 hours 8 mins",
+            "value": 7706
+          },
+          "end_address": "Dalmally PA33 1AY, UK",
+          "end_location": {
+            "lat": 56.4024589,
+            "lng": -4.972120299999999
+          },
+          "start_address": "Craignure, Isle of Mull PA65, UK",
+          "start_location": {
+            "lat": 56.470577,
+            "lng": -5.70611
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "21 m",
+                "value": 21
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 56.470741,
+                "lng": -5.706289000000001
+              },
+              "html_instructions": "Walk to Craignure Mull Ferry Terminal",
+              "polyline": {
+                "points": "cltwIdnya@_@b@"
+              },
+              "start_location": {
+                "lat": 56.470577,
+                "lng": -5.70611
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "21 m",
+                    "value": 21
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 22
+                  },
+                  "end_location": {
+                    "lat": 56.470741,
+                    "lng": -5.706289000000001
+                  },
+                  "polyline": {
+                    "points": "cltwIdnya@_@b@"
+                  },
+                  "start_location": {
+                    "lat": 56.470577,
+                    "lng": -5.70611
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "16.6 km",
+                "value": 16562
+              },
+              "duration": {
+                "text": "46 mins",
+                "value": 2760
+              },
+              "end_location": {
+                "lat": 56.4122038,
+                "lng": -5.4759978
+              },
+              "html_instructions": "Ferry towards Oban",
+              "polyline": {
+                "points": "cmtwIhoya@_DkIMcAsA_Ji@qD?AaAgH_@aEQoBq@iKAMUqFMcCUyKMkHCkBCgYP}Et@gUdAwNXaExBqRxGge@nFc`@rIgc@hOip@pGaUbKmW`JyQzTya@zM}Z`Mw^lJg`@nK{e@fIue@lV_cBjb@keDzB_RxRs_B`Iez@lDu_@zEal@fBuZdAiVJgC~Ay^dAyUh@qNBw@b@{Mv@wNt@uKb@uEf@aEr@yEt@cE`AuDbAcCjAsBT_@~@}AdBiCxAiBvAwAn@[x@c@pBo@b@CrHa@NApLqArFcA`@UTOp@u@n@gAbBwDnAiDHY|@gD\\wAhA_GViAHe@VqAd@yBh@iCR}@Tu@f@qAR_@JQBELSNKPGRCx@Cf@AA_G"
+              },
+              "start_location": {
+                "lat": 56.470741,
+                "lng": -5.706289000000001
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.4122038,
+                    "lng": -5.4759978
+                  },
+                  "name": "Oban Ferry Terminal"
+                },
+                "arrival_time": {
+                  "text": "5:46pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604252760
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 56.470741,
+                    "lng": -5.706289000000001
+                  },
+                  "name": "Craignure Mull Ferry Terminal"
+                },
+                "departure_time": {
+                  "text": "5:00pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604250000
+                },
+                "headsign": "Oban",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Caledonian MacBrayne Ltd",
+                      "url": "https://www.calmac.co.uk/"
+                    }
+                  ],
+                  "name": "Craignure Mull - Oban",
+                  "short_name": "CM11",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/ferry.png",
+                    "name": "Ferry",
+                    "type": "FERRY"
+                  }
+                },
+                "num_stops": 1
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 297
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 230
+              },
+              "end_location": {
+                "lat": 56.4124844,
+                "lng": -5.4730693
+              },
+              "html_instructions": "Walk to Oban - Station Square",
+              "polyline": {
+                "points": "i~hwIjrl`@ILEHKO[cAEMUw@Uo@IYKWQg@Kq@CI?KCa@AIAe@?MB_@@EPc@BGJOCg@@k@?WD_AX^BFD@B@"
+              },
+              "start_location": {
+                "lat": 56.4120475,
+                "lng": -5.476384899999999
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "0.2 km",
+                    "value": 219
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 171
+                  },
+                  "end_location": {
+                    "lat": 56.41270369999999,
+                    "lng": -5.4737082
+                  },
+                  "html_instructions": "Head <b>northwest</b>",
+                  "polyline": {
+                    "points": "i~hwIjrl`@ILEHKO[cAEMUw@Uo@IYKWQg@Kq@CI?KCa@AIAe@?MB_@@EPc@BGJO"
+                  },
+                  "start_location": {
+                    "lat": 56.4120475,
+                    "lng": -5.476384899999999
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "53 m",
+                    "value": 53
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 40
+                  },
+                  "end_location": {
+                    "lat": 56.4126754,
+                    "lng": -5.4728495
+                  },
+                  "html_instructions": "Turn <b>left</b> toward <b>Station Rd</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "kbiwItal`@Cg@@k@?WD_A"
+                  },
+                  "start_location": {
+                    "lat": 56.41270369999999,
+                    "lng": -5.4737082
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "25 m",
+                    "value": 25
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 19
+                  },
+                  "end_location": {
+                    "lat": 56.4124844,
+                    "lng": -5.4730693
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>Station Rd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "gbiwIh|k`@X^BFD@B@"
+                  },
+                  "start_location": {
+                    "lat": 56.4126754,
+                    "lng": -5.4728495
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "39.0 km",
+                "value": 38963
+              },
+              "duration": {
+                "text": "48 mins",
+                "value": 2880
+              },
+              "end_location": {
+                "lat": 56.401829,
+                "lng": -4.978054999999999
+              },
+              "html_instructions": "Intercity bus towards Glasgow",
+              "polyline": {
+                "points": "caiwIn~k`@BYCAEACGW]AAW[KKKGOEGC[AMAKCGCGEEIAIAGC[gBf@e@J}AZSd@IZK`AAJEVAHAJ?BCBCDEBEBI@]HE@cAPe@JsAXs@RYHa@Nu@d@GDa@VQN]Zg@l@Y`@A@W`@QXOPQNGHGF?@?@A@?@?@?@A??@?@A??@?@A?A@A@A??@A?A?A?A?A??AA??AA??AA??AAA?AAA?A?AAA?A?A?A?A?A?A?A?AMQIQ[i@GIGKK[GSEOQg@A?A??AA??AA??AA??A?AAA?AMEMGKEKIGGCE?AGIEK?ACYa@aCG]EWG[ACGUEIGIYc@a@o@s@cAs@cAEGU[a@e@KKQO]_@QWGMEMGMCIQi@]cAEMCOAE?EAQAa@?E?o@?Y?MAKEWEMCICEGMIMIMAAUQGCIEYIUJSLk@^WPWLSHSFUDY@Y?]EYI[MEEUKKKEEWWY]Yi@EG_@u@q@mAUg@ACQ_@EOGOM]AEKa@GSMk@CISu@EOMe@CIQc@Yo@Wc@a@o@Ya@Ym@Uk@Sq@Sy@AIMs@Km@Io@EYKcAIo@Ik@I_@Kc@Ma@M]M_@IMIMEGIKQSWWGEGCOKm@Yk@UEA[Mc@QMGSK[OEC_@SAAQM[]OSKKQWEEUa@CCO]O_@M]?AUu@Os@Ok@UcACOMg@Qw@?ASs@W}@q@{B_@oAUo@ACUa@O[MQACOQOMSSIGMM[O[Oe@M[KYGQGKEOI]QWUOKMMUY_@e@SQQQMKOMq@a@m@Yk@YMEWIc@IICQCYAy@Gi@IE?]KSKSKWSAAQSWYWa@c@w@]i@Y_@SQ_@[{@a@g@WICk@U_@SWSYW_@]MKQM]Wk@_@w@Ya@SYQYSOOKMQUMYMYMe@G[I_@CSGi@G_AE_A?EEy@?GCm@Gg@G]Ic@Mi@Ma@Qa@OYSWACy@cA{@_A_@e@]a@[_@ACSUa@e@c@g@_@g@Ya@Wa@SWUa@Sc@CESa@GOSc@CEQc@ACOa@Uo@e@}AK_@Mc@EOEKK[c@sAi@wACIO]c@iAIUSi@Y_AQk@m@uBOi@}@aDeAsE[oAu@mCUw@Su@K]GUGQO]EISc@CEUe@IMa@q@c@w@]q@_AkB]q@Ug@Ua@GQIOEOACMa@GWESGYEWIe@Q_AMw@M}@Mu@Ea@CQCQASCSAWIgBM}D?KG{AMqCE{@A[A_@?[?Y@_@?GBg@BUBWFg@Ji@FWFUHSNc@DOn@mBL[HYJ_@H]Hc@?ARwAB]?E@]?_@@QAS?W?UCc@AYA[Cu@EmAG}AC}@GuAGwAEoAGoAEaACo@Cy@Es@EkASgF?IEoAKqCAUA_AIwCEkAE{@Ea@MiBQcBGo@Ee@CSGi@I}@I}@U}B?ASyBYwCI{@AUCUAOASAU?M?MAO?A?K?W?M?M@S?M?MBk@@c@@C@[@U@M?G@U@O@m@?a@?A?e@A[AYCe@AWCk@C[AMCOK}@Oy@ESm@yCcA_Fg@_CEM_AwDAEu@cCc@u@e@w@w@_AsBuBQQm@o@YYSSYWSUOSGMSc@GYESEWAOCOAOAW?QAQ?QAW?O?CA_AAGCy@?ICc@AQAOEm@?AI}@I}@Ec@Ea@?IAYCW?UAS?Q?A?[@Y?I?M@Q@U@I?CBQDa@@EDe@Fk@D]Hk@@IB_@B_@BWBw@Bo@?K@eA@_@?MBWHw@Jo@Ni@@GLu@Jc@FYDQHe@@GNq@DUF]@EJe@DQ?AHa@BOHa@N{@@OLy@FaABq@BY@s@?o@?qA?g@EcACu@?ECg@AWGaBC{@C]Ac@Ao@Ay@?kCAaA?UAgEAmCAYCy@AEA[EYKw@ScA_@cBS_AAGMo@AIIo@OmAIw@?AG}@?AGu@AGCi@AU?MAq@?A?w@?G@k@B}@Do@De@@MFq@F}@BYDe@@MDq@Ba@H}AD}@@QBm@?GBy@@E?[@_@Aa@?g@A[AK?KAQCOCYE[E[CSGWGUCOIYEKKYIWSm@_@gAMc@Sk@Wy@A?K]IWI]G]Kc@Ig@Gc@CWEe@E_@E]?CEo@Ca@Cy@Ag@A_@Ce@AYE]Gs@CQCOCSEUYqAm@_CCMSw@Qw@Og@Q{@WgAK_@Sq@GQMa@GQMYWq@O]M[Sa@IUM]GSM]GUIUMi@e@eBk@_C_@wAW}@Ok@?ASw@Ok@Qs@CKIYI]Mi@Mq@Iu@AW?GAKAU?_@?M?M?O@Q?A?I@EDm@Da@D]DSBMBKNc@BIDK?ABEDIBEBGDGBEBCT[r@y@T[LQHOLSFOFMFQ@AFQRi@Ng@Pu@Nw@Fg@Da@BSH}@@MFo@BUFa@?EBMBSFW?CFWH[@IDM@GHULa@FOL[Nc@l@}APe@?AVo@L[HSHSN_@Xw@HUJUJWP]R_@JMJOPURUZ]@?RQJIBCZSNIJGNGNGHCLCNCTEFALCNANCv@GPC\\Cj@E`@EFATCRCHALCLEHEDCBAPMHIBADGDGDGDGBGDKPa@FQDQBMBIDUDQ@SBM@U@O?I@Y@M?Y?aA?oAAe@A[?QAOC[E[CWCQM{@Ow@Kq@Kk@Ii@CWC[Cg@AaA@}@Bk@BWB[BM@KDUJg@FQDOJUBKDGDMDGBGHKDIDIFGLOLKRQVOb@U\\SLI\\SHGVSHIPSBCDEHMHMFMJQFODKN]@EFOLe@FUFYHe@RqANaA@CRuAJk@Ha@Jg@Le@Nm@Ps@`@{Al@yBRw@f@iBFSd@iBLc@Rw@\\kAPm@\\iAX}@ZgAHYt@aCNg@To@Xw@BGPc@`@{@Rc@b@s@PYV]Xe@t@sAv@mATc@P_@DGPi@BEXiAn@iCRcA^gBPw@Nu@b@sBDUJc@`AyEr@uDbAgG~@qFLw@D[^yB^cCTeBX{BPuAFc@J}@LmAb@eDXyBLcAJs@@OHm@P}AD[H_AH}@De@DWRwBJaARsB@Kf@{Ep@{GPgBH}@H}@j@yFFo@@MHoAJmBHwB?I@_ABw@DkC@_A@aA@_A?}@DeC?iAGiAEk@CSQ{@Oi@Si@Sg@CGSi@i@sA_@{@Uo@[w@EISi@Yq@ISIUKUKY]{@c@gA[}@Oo@CIUmAO{AMaAKcAK}@[}CEYI}@E_@E]I{@?AEq@Co@Am@Aq@?E@y@?ABq@Do@Hu@Jw@P{@Pu@Jc@Lg@XqAZoAZgARi@Xg@FIPU^]LGTMp@]z@a@f@]\\Yn@k@\\c@RQLQd@a@JGDEXQLIROJGNOBEFIHOFOBEPo@Jq@Ds@@s@A[AYGi@?AGw@Ea@KaBCe@Cq@?[@a@@WD[Fc@FWJYFQHOJODGJMPSTYTUPSHIJMFIX_@R_@JOHQHURm@Ni@Ha@F]D]D]BWRiBJoAH}@B[Dc@@WDg@HyAHcBB]HaBD_A@EDy@Fu@FiALoCLcCLkBHwA?MDo@H_AB_@Hi@Jg@Ha@JY@CPg@b@}@fAyBh@eATc@LWLQBE^c@VY~@u@TUTUPS@AHONU@AHSL[@CTw@R}@Jk@vAyIPaAP{@Hg@Nm@l@{Bb@yAVgARaAHs@Fi@BST{B@QN}A@MFy@RkBHi@DWRcARs@Ne@FSL]Lc@FORu@Ru@@ERcATqADWB]@U@EBy@F{@Fe@Hs@PoANq@DSRw@`AyDPm@Ne@b@{A~@yCRe@BIRu@\\qAZqAb@oBNq@@Gb@oBPw@Pw@Lg@v@sD@EPw@Pw@Py@`@oBPw@Py@Pw@Pw@Pu@Hm@NkA?ALgAB]FcAP{BHoABo@D}@?A@]?a@?AAk@AS?MEc@Ea@SoAI[ISOa@Sc@e@y@S]q@mAuAeCiAsBeB{CQY]]KM[Uy@i@GEy@k@cAo@w@k@GIYWEESUm@{@]q@[u@KYQc@a@aBu@eDk@}BI]Ia@Im@Ei@C_AAO?e@@a@?W@O@IHs@Fk@DOPy@He@DQPy@Ji@TgAPy@l@uCx@_EVsAf@gCBGTkAp@uCDSL_@DKPe@HUPg@l@mABET_@LQ^e@NQJITQLI\\WdCeAdDqA`@SVMHELIPQ\\[@An@{@\\c@N_@LUJWVq@FMfA}CZ}@Xs@LYDIVg@\\o@^k@l@}@Xi@@Ab@}@n@oAb@w@`@m@HILO\\[TQ\\UNIp@c@j@_@b@a@NMPUVa@N]BEPg@@CNk@Ji@L}@LoA?GNgBPaBDm@H{@PyANs@Po@BGVm@d@kAHWJWTu@F[Lq@@GL{@R{B`@_FJeABUNs@Rs@Rg@P]Ze@NQLMRQb@c@Z]PYLOPa@BGZaAr@cCQW`uCc|MPLDWHi@PsAJw@Hg@Hm@Hg@Hg@Jm@Je@Je@Pw@ZsA\\_BLo@Lq@P}@Ny@TgAHc@Jg@Ry@Nq@J_@H]V}@Ts@Na@J_@J_@Lc@Nq@Ls@Ns@Hc@DY@IHq@BWFm@Di@@MDs@@EF_AHmAFy@FaADw@@Q@m@@QDaBDoAD{@Bo@@OBSDc@@EB[Hi@Lq@?APw@Ji@BOF_@Hs@Du@FaAB[DWFi@@IJk@ZqAT_AZqA?C@CT_AZeA\\cA\\eAPi@Po@Pu@R_A?ANs@Pq@@ILe@V_AVu@?ATk@Vu@?AX{@X_AJ_@BINg@Nq@@INq@PaA@ALw@DWFc@L{@J{@Fc@BYJaALmB@KF_ABe@FiBDyA?W@e@?_A@iA@}B@{C@kDBmE@gA?iA@oB?cACgAG}BOyCOaCOaBKeASeCYqCYsCI}@E_@OyA]cDCUOmAEa@Ia@GUGSMe@CIAGEMGWCS?GKy@UuBI}@MkAEq@Ee@GyAAO?MAIAOAQCOCOCKGOEIMMOSEGIKAEEIK[Oo@G]Ge@Kq@O}@YqAU}@Us@So@_@gAEMm@cBo@gBcAqCg@{Ao@oBOe@]gAeAuCmA_DGM]y@Ue@Ug@]k@_@o@}@_Bi@cAWa@CG]i@S]EGW_@EEQWg@u@Q[CCQ]OWQ[OY[k@Ye@KOYc@MQGMIQKW?AQo@ACQi@CIK]Oc@ESEWG]G[Kk@Oo@Km@I[O_@GQMUKUAAOYKUIUIUGMSg@[i@CGUc@?AU_@_@k@AAUWGKOUMOEIU_@CCS_@a@w@Ue@CCa@s@QWOU[e@S[O[K_@Mc@Kc@Kg@Qq@Mg@Oq@AAI]Oa@KWEIGKOSEEIMW[QYU_@IQKSMYCEOa@CIISO[OWMSQOOKu@g@QMKQKQMWGSM_@?AOc@EKEMKSMSUQOMYO]OUIQKOIOMMOMOCCGMOYACM[ISAEKa@COG]E]W}AKu@AEKu@AESqAIc@Ko@E_@E]Ec@Ec@?AEm@?QGy@?EE}@Ci@AUC}@CUAUAIAGCQEOCICMEKEIEKGKKKCCMM]Qi@][QYUCCIGKMW[MUEGMYEIQ]e@}@We@A?[e@SWc@c@IIY]ECo@}@EGy@kAeAwAo@}@m@y@o@{@UWOOSMQQi@a@KKKKW[Yc@IMSY[e@o@gAS]a@s@MUEKGKM]AEISMe@Mu@Ga@Ec@Ea@AS?SAk@?_@?kBB}C@{CBkC@w@?kABg@F}@JiANmA@CHg@Hg@ViAHWx@cCn@{AVo@JU~@wBn@}AzBkFXo@?AbByDj@wAZs@h@wAl@iBBIb@}An@mCfBkHZkAl@iCH[\\{Af@oBVgA`@aBHc@BGFi@ZaCl@iGFk@R}BDs@@Y@o@@gA?i@?c@?YCw@Em@G_AAEKoAGy@Gk@Ei@Ca@Ce@?}@?S?_@Bw@PmDLuBDo@H{A@SDk@LiATqAbAoEXqAt@aD?Er@kDPw@j@gCH_@Pw@Pw@`@iB@GXuAB_@BMDm@?ABy@@q@?i@?SAUEs@IiAKaAI}@Em@Eq@EkACu@?a@CyAV@D?BA@?FCBCDEVg@Pa@HQb@eAF[D]FaA?_@?aA?[?K?yA@s@AUAMKk@?ACQCQAM?K?g@?aA?u@?E?YAa@Am@?O?G?C?O@KB_@?EB[@W?E?G?QAW?GAECw@AK?IAI?K@M@M?ED]DWBMJo@Fi@BO?I?I@OAI?EAGAEKo@CGK[Oa@KSKWGOGUACAEAMAMAM?M@M@M@M@M@M@O?K@M?K?CAMCQAICGCGMP"
+              },
+              "start_location": {
+                "lat": 56.412502,
+                "lng": -5.473198
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.401829,
+                    "lng": -4.978054999999999
+                  },
+                  "name": "Glenorchy Lodge Hotel"
+                },
+                "arrival_time": {
+                  "text": "7:03pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604257380
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 56.412502,
+                    "lng": -5.473198
+                  },
+                  "name": "Oban - Station Square"
+                },
+                "departure_time": {
+                  "text": "6:15pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604254500
+                },
+                "headsign": "Glasgow",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Scottish Citylink",
+                      "url": "http://www.citylink.co.uk/"
+                    }
+                  ],
+                  "name": "Oban - Glasgow",
+                  "short_name": "976",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Intercity bus",
+                    "type": "INTERCITY_BUS"
+                  }
+                },
+                "num_stops": 13
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 411
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 304
+              },
+              "end_location": {
+                "lat": 56.4024589,
+                "lng": -4.972120299999999
+              },
+              "html_instructions": "Walk to Dalmally PA33 1AY, UK",
+              "polyline": {
+                "points": "a~fwIbgk]KUMSMSGGEEGCE@EBC@SNe@wFSyCAUK{BAcC@mBFwBHyAF{@Do@"
+              },
+              "start_location": {
+                "lat": 56.4017674,
+                "lng": -4.9779442
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "43 m",
+                    "value": 43
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 28
+                  },
+                  "end_location": {
+                    "lat": 56.4020775,
+                    "lng": -4.9775384
+                  },
+                  "html_instructions": "Head <b>northeast</b>",
+                  "polyline": {
+                    "points": "a~fwIbgk]KUMSMSGGEEGC"
+                  },
+                  "start_location": {
+                    "lat": 56.4017674,
+                    "lng": -4.9779442
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "21 m",
+                    "value": 21
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 14
+                  },
+                  "end_location": {
+                    "lat": 56.4022561,
+                    "lng": -4.9776558
+                  },
+                  "html_instructions": "Turn <b>left</b> toward <b>A85</b>",
+                  "maneuver": "turn-left",
+                  "polyline": {
+                    "points": "_`gwIrdk]E@EBC@SN"
+                  },
+                  "start_location": {
+                    "lat": 56.4020775,
+                    "lng": -4.9775384
+                  },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": {
+                    "text": "0.3 km",
+                    "value": 347
+                  },
+                  "duration": {
+                    "text": "4 mins",
+                    "value": 262
+                  },
+                  "end_location": {
+                    "lat": 56.4024589,
+                    "lng": -4.972120299999999
+                  },
+                  "html_instructions": "Turn <b>right</b> onto <b>A85</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": {
+                    "points": "cagwIjek]e@wFSyCAUK{BAcC@mBFwBHyAF{@Do@"
+                  },
+                  "start_location": {
+                    "lat": 56.4022561,
+                    "lng": -4.9776558
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "cltwIdnya@_@b@_DkIaBcLkC}S{AyVu@u\\Le`@zB_e@rCsXhOkfA|YqtApGaUbKmW|_@st@zM}Z`Mw^|VcgAfIue@lV_cBff@kxDxRs_B`Iez@hKwlAlD_r@zEmiAtCal@tDuXdCyH`BsCvIiL~FsBbIc@dTuCxCcDzFcPdG{Y|AyDr@m@lAGf@AA_GRxAQEmAyDs@kCE{C\\cB@cAD_AX^HH?ZIe@}@gA_ASi@OMw@mCr@qB`A]`Ca@l@qIpBsE`E{ApBCLGFUK{BgFOM_A}@eAiGsIwLaAsDOqDcAqAmAH{A~@wAXmB]_CkCwCmGoA}EsDmH_BeJ}AmGcBcB}EuBcC}BcB_EmBiIuDmKeCmB_EaBwCwCqFwBcCS}Aw@sDeFkGoD}FoDgAgAq@uBi@eH]wC}@gCgFkGuEiG}EyM}D}K{HwY}AmEwFuKkAeDyAeJgAqXh@gFzBaHl@}FKcFoBwh@_AeRcAoKeAaPTiJWyEaGkYaCwFkFwFoC{Da@aJu@qLr@cJVqHdAyGtB_L^eL_@{JKgUoAoJiAyHY}FbA_SB{LyDaNiAyFa@{Ga@gFyCiMcFcO_GeUk@sFH}BnAuEpC{D~AsFtAsKhFoNpBuD`CqBtIqAfB_@z@{@v@gCRkCIkHmAaI?{Ht@{Cj@eA~CyBdBwAfA{B|EsUbLs`@~JsRhEwRxH{b@hG{f@jGyo@b@sPGyOqHgSiB{Ey@cF}AwNU_InAgJ~AqGfAqBfHwEpFqFb@uCIsC_@sI`A{DvBeCxByEjAkKzB}`@|@iJxE_KfEkElAuCbFsWzBqMrAiLvBkH|@gHvC}OvJe_@tDeQ`BgKn@_Mm@aGyHyNaDaFwCqB}C}BeBiCqEyPQwGlAeH~EeVnCeKfDyEhLkFhD}EhE{K~FkKlEyDpBeB|@mBzAyLp@wFrAqDdBsJ`AoJtA_DbD_E^iA`@{CruCu{MNaAp@aFj@cDtCkN|B{JxBsIn@wFpAoWvB_QtGcWrFqRnAoH~@{KZml@kCm^aBcOu@{CmAsNSuBcA_BaBqIgGuQ_IwTmFwJkHqLyAcDmA{EcBcGiB}DyFqJsCcFaB{GeE_Iw@{AiBqAqAaDu@gA}Aw@iBoBwCcP}@yNe@cBcDaCiGeJsHcK}D}DqEgHqAaEWgIb@yVd@aDjCaIlKsV~CmI~DaP|EkSxBuTMeKk@kJt@oPpF}XhDwORgGy@_MCwARwAREnBeFFoJWaDF_KFiGVwC{@}Ce@qBJoBMwAMYi@u@WBy@gFUoDCeNVeE"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

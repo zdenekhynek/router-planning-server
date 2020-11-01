@@ -1,0 +1,429 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJGwMcNyMziUgRIUhUCOM-oM0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJkcOw-DXgi0gRTh-WqD69jxQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 56.8929851,
+          "lng": -4.5646075
+        },
+        "southwest": {
+          "lat": 56.3874878,
+          "lng": -5.706289000000001
+        }
+      },
+      "copyrights": "Map data ©2020",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "7:31am",
+            "time_zone": "Europe/London",
+            "value": 1604302282
+          },
+          "departure_time": {
+            "text": "5:37pm",
+            "time_zone": "Europe/London",
+            "value": 1604252220
+          },
+          "distance": {
+            "text": "186 km",
+            "value": 185575
+          },
+          "duration": {
+            "text": "13 hours 54 mins",
+            "value": 50062
+          },
+          "end_address": "Craignure, Isle of Mull PA65, UK",
+          "end_location": {
+            "lat": 56.470577,
+            "lng": -5.70611
+          },
+          "start_address": "Fort William, UK",
+          "start_location": {
+            "lat": 56.8207633,
+            "lng": -5.1042478
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "101 km",
+                "value": 101298
+              },
+              "duration": {
+                "text": "1 hour 45 mins",
+                "value": 6300
+              },
+              "end_location": {
+                "lat": 56.390193,
+                "lng": -4.6184005
+              },
+              "html_instructions": "Train towards Glasgow Queen Street",
+              "polyline": {
+                "points": "wxxyIp|c^DC[_C]qCMo@Os@CMQs@GY]sAYiAUu@EUK_@Ii@OcAMaAOkBi@qGCQk@iGSmBAIQsAE[Ik@EOg@wCGWIa@GUe@mBOi@CMSw@IY_@oAEQ{@eCWu@k@gBo@uBaAeD}@yCi@iBIUK_@Ss@Qo@m@mBWs@Uu@Sq@Uu@Us@i@iBAAgAiDc@wASo@o@aBg@kAm@wAg@aA[i@Sa@{@aBEIUa@e@{@i@eAu@uAWe@cCyEeC{E_@o@OUkBoDcAkBwB_EiEgIeDuGsAaCQ]eB_DkA{BaBaDgAqBo@{AWo@Uo@WaAWeAKm@CGMq@McAOiAIkAIkAIoBI{EQiEG{@Gw@QaCUsBYuBOkASiAOw@G_@e@cCe@oBc@eB[kAWmAc@sB]sBGe@k@qDu@cFw@qFQkA[yB]sB]eBCOUcAc@uAk@gBCGaAcCGKu@uAKSiB_CeA}@[Uu@e@_Bm@UEcAKkBM_AKKCa@K[IeBs@uDaBa@QeAe@wAo@MGa@Uo@]SOu@e@KKYUw@s@_AiAeAcBWe@s@sAACaAeCaAqCoAeEMa@i@iBe@{A[aAgBwFyBqHu@aCUs@iCeImAgEc@wA}@oCK[i@iBm@eBQe@aAiB}@yAOY_@q@m@{@c@q@k@aA}@gB_AeCaAiDkAkE_BqGI[g@kBK_@uAsF]qAI]Su@Qw@[mAK_@Us@g@aBCGUq@g@sAGMkAmCcAyBuA}CgAaDeAgDiAmEkA_EeBcHaA{DK[Us@a@aAO]Yq@mAkCk@cBg@kBQw@AA_@eB{@uD{@{C?Au@{BmAsDsAaEgAkD{BuGc@qAk@gBw@}B{@qCc@_B_@sA]mAiA_EiAaEe@aBOi@YcA]{ASiASmA_@_DUiCKcAGu@MgAIw@EYOmAUoB[uBG_@YuAo@wCc@eBQm@wAwF_@{A{B}I_CcJwAyFMe@{@gDaA}D_AmDm@_Cc@}AeAiEeAgECGg@qBcAmEcAeGk@cF[eDk@kEi@_DEUs@_DaCaKuAkFqB_IwBwIoB}HaDgMq@kCaCgKg@qC[iBiAqHs@gFSoAaA}GSkAM}@M{@M{@M{@M}@G_@Ga@M{@M}@M{@AIKq@M}@c@cDCQq@wFm@iFeBeOqA_Lq@aGa@yDCQYqCO{AKuAMwBK}CUiFWuISaHEsBMoC?CMsDOsEOkG?AI{BKcDOyDOiCIsAKyAIs@OwAGc@K}@Ea@EYO{@O{@Ge@EUOy@Q{@G]G[Kg@EQOy@E[QmAQ{AQeBIgAC_@GgAK{Bm@_NQaD_@sI]cHUyFK_CYeGOcDU}FUiFSkEQsDAMEmAEiA?mA@y@@Y@e@LcBTqBFs@^}CTeBVqBHeADk@P}BHkAHcBH}AP}CTqFR{CLcBLmALsARsABK\\qBb@aCPo@`@{Az@kC`AyCp@mBTw@BIZgATuA\\qBJo@JyA?GTyELiDTcGh@mQ`@cKVcG@e@VeDHs@PiBViBVkBVqBHy@Fm@H}@Fs@D_AB_@@]BiB?cB?YC_BM{JYyPYuSe@w[IcGEeC?[EeBAgAAcBAk@AaA?A?_A@W?U?{@?E@aA?w@@I@aABc@@[JcBP}CB_@Dc@L}B@SDk@XiEFu@`@_GRoCLoB\\uFb@iHJaBX_EReDBYt@yKV{DXuEBUTuCDg@ZuCl@oF^iDZsCp@kGNqA@ETuBJoAJwAFwA?ABiADiA@y@?cB?uA?GCwAEsC?S?O?oA?o@D}@DmAFyA?Q@c@?wBCeBEaBA{A@wABkABsADyA@a@DwABwB?U?q@A}@C{@CWCe@Iu@G_@Kw@S}@GW]kACGO_@a@w@AAc@q@UYEGi@m@k@q@{AgB]a@]a@}@eAOQ_@a@_AgA{@{@MOUYc@q@Yo@KUY_AEOYmAm@{CMw@YsBI}@CkA?}@@oB@SF}@PmBLaABKPw@\\kAlA{DBGd@eBDQJe@No@NcAJi@BQNiAFq@BQDm@Di@Dy@@s@B_B?gA?eACaA?AK_CI_AC_@QyAYmBCM]eBUeAEO[kA_@qAUeAMu@Mc@I]U}@Su@[qA_@aBi@cC[kBK}@Ea@OmBCo@Cm@EsA?C?eB@{A?[FkBF{@FaAb@sE`@yDFe@x@aHXcCJiAH_AJ}A@a@@]?c@@[AaA?e@Am@EuBG{AAgAA_@?aB?OBiAF{@Dk@Di@L{@NiALkAPeBDw@DyA?CBkC?eC@aCB{BDaC?E@}@BqADm@Bi@DwABc@RwC?EN_BP{AJ}@N{AT{AVaBl@_Ef@cDRwABSNsAFk@HkAB[F}@PaCBi@@m@@i@@EBgB@qBAkCCwDCk@C}@GcAC[KsASgCQuBWiDCe@OuCG_CA_CAq@A{@ByCBsB?AFmBHuBHaBJgBHuA@O@g@@iA?gA?{@?a@CsAEmAAUIyAQgCAIK{@MoAWiBE]_@kC[aCUmBOqAAKCwAA]?mA?u@@YHwA@OHy@?CL}@TkAJg@Jc@FQLWJULYLOl@cAX[NOFGVQPKl@Wf@QdA]^MVOXSXYj@o@X_@r@sA`@cAV}@^mAtBcI^wALe@f@wBP{@Js@JcAJuAN{CFqADmAFgAFu@LuAPuANoAV}BFw@De@@]?C@[?o@?u@AeAEy@AMGy@K{@Ik@Ki@Mi@W}@Uw@Y{@YgAWeAMw@Kq@AGI{@Ee@Em@Es@Co@Ak@?y@?OAq@AqA?eA?oAAqA?_B?g@?m@AqAAqB?C?gCA_B@{ABgBBk@B_AHuALsAJy@Jy@N_AXoA@G^sAPm@Zu@^y@f@w@RW\\a@ZWl@e@ZS^Sl@Uh@Qf@I|@GT?tADjG\\nMt@j@DjBJvCP`AHz@HfAN|A\\xA\\ZFxBp@tAf@j@Xn@X~@n@`Ax@t@n@t@p@FJvAdBfA|Al@fAXh@v@bBRh@Vx@z@xCRv@z@lDTt@L^Rd@Tj@Xn@JTZp@Tf@LVVb@d@p@r@`APTz@hAJLPTr@~@FF\\`@d@h@r@t@B@f@`@z@j@b@XhAl@|BbArBr@XNh@VnAd@z@NjALdCDtBMhAGr@Ah@Bp@PbAd@zAbAdBhBPRbAfAdAhA\\b@p@p@@@b@f@\\Xf@ZxAp@RHl@Lz@Ft@H~AJH@lDVfIf@|G`@P@R@x@D`BHVAn@?T?@AbAO@?z@WHC\\In@Yt@Yp@UZGTCf@EH@n@?V@TBLBPDr@XFDd@XRNZVn@f@TPXPh@R@@n@Xt@R@?x@Vn@FLB|ALH?|@FF?~@AD?d@I^I^G`@EDAx@AF@b@BJ?|@Tv@RJ@j@HXDNB|@DfAH`AHR@fANdAHjAHfBJN@fAHNBv@LjAP\\Fl@HXH`@PB?^Np@TRDb@Hv@?z@Kx@Gj@AfADtABfA?hBOTATA\\Ab@@x@At@ErAKXAl@Ez@GJAt@K~@QXC\\Ef@?T?L@b@Dx@Pn@PD@h@HVDXBj@@@?jBGRAr@ErBKZCp@Gv@IzDa@ZE^Ev@EP?PAt@Bb@BL@j@JLF\\J|@\\JDZHFB^J@?b@F\\Dv@PzAj@bBb@B@f@Hf@F`D^j@HlC^b@JdATb@Nr@XnBv@~@ZNDd@J^FPB|@JbAH~@Jf@DHBl@Nn@Tn@Tv@^RJpAv@LHhA~@HFnAjAl@l@@?x@n@FDp@^b@PNFLBt@N@?tAR`BNbBRvBX|ALlDXxBR~AHD@~@VDBfBx@TJl@Z@@l@RTDxD~@|@TfCp@pCp@x@Rl@XlAh@`CbAvATn@BF@r@LPJf@ZXTZVtApAn@`@x@h@hBr@h@ZbFzCFDbBhAJHdBvBd@h@DFt@f@D@`@Jn@Zj@XJH`@^z@v@hAjATPNJPFpAb@jAl@p@ZbBx@b@Xp@b@NLfAz@v@r@b@Xb@XbAd@`Ah@|@d@DB`Ar@bAp@ZT`B`Af@\\?@h@p@p@v@x@jAZT^XDDTPf@`@\\PFBx@\\HBx@PjHhBzEv@|@NN@~@FZ@T@b@?j@AB?j@Cr@In@KPEh@Ob@SFCTIb@U^WJIf@_@bBcBpAqAp@q@LK~@_Ab@c@x@w@r@m@\\_@RW`@m@\\o@R]Zu@Xy@ZaAV_AReAN}@Ho@BSJ{@F_AFiA@e@?i@?uAE{BEgAEcASwEUeGc@uKAUIaCEs@?MEcB?]?qA?q@@g@DmAHkA?CTcCTwADUNy@XkAj@eBr@aBh@eA`BgDvCuFdBqCVa@`@k@\\e@x@mANS~A{Bj@aAXi@p@_Bb@oATu@Po@h@_C`@gBZmA`AgEbAiEh@iC`@sBVmA\\oABGZeA`A_C@C\\e@x@cA?AbAy@p@[jA]HAlAW`B[|@Yz@a@p@c@^_@TSb@i@h@q@`@o@Zq@t@}AFS\\cAdAoCx@iBd@aAtAoCxDuHl@cB`@eAn@wAXk@p@oAt@uA|@uAn@}@n@qAd@{@Tc@\\i@Zg@X]X[Z]`@]h@e@zAgArAaAhBqAnAaAjA{@`@[^[TUTWd@i@?Af@o@b@u@b@w@Zo@BEb@cAt@}B@Cd@cBj@aCh@aCFWXoAZyAFSZqAZgA`@kAb@gAp@oAj@y@fAwAzBeCfCoCfBqBtCcDrD_ElAuArB}B`BgB\\a@xA_Bj@m@|@gAf@k@j@o@r@w@f@i@JMj@q@~@aAlCcDbDmEXa@dDiEjBuC|@aB|@kB@A`BkExAgFv@kDbA_Fz@sDjCeItA_DfAmBn@eApAgBdAkAf@e@d@c@zCwBzBwAlA_AbAu@tB_CjBiC|AuCtA}Cb@qAr@wBtAuFBKfA_FxAmHv@wCRu@X_An@sB~@oCrAsDbC}FlEkLdC_IRk@~CmJX{@nC{I`AaEHi@p@sDdAiGpBmLz@_Fx@_E@Gp@mCbAuCFO`AeCbB{DdBcE|BuFBGnBkFvC{Hd@sAnB{FvDkKbFcNv@wBhFwNfA{CdB}Er@sB^gAb@gAZ{@L[`@cAx@eBn@kAl@eAv@eALOh@w@t@aA^g@l@y@`@i@JOl@{@`@m@V_@Xa@P[b@s@^u@^u@Rg@Ti@Tm@Pc@J[^aARs@Z}@Ty@Po@Ru@Rs@ZqAXkAd@aBJe@Rs@p@gC`@cBp@gCl@yBj@uBr@_CFSj@qBz@yChAyDt@cCv@aDz@kEl@_ERuBVgCVwDb@eFT}CHmAL}AJoAVuBBSXmAPo@Xw@\\s@^q@Z_@d@e@d@[b@Uj@OLA`@El@A^Ad@Bn@Dv@Bd@?d@@d@?p@C`@CNC^Gh@Mb@Qp@_@z@m@POr@o@`@a@^]VYn@q@VW^[XWVUTS@ARMb@Sr@S|@IB?l@Bl@HLFd@P\\T^^NJp@`At@|Ad@fAVt@\\dA^|@b@t@DFf@n@v@n@^RD@`A^`@BD@`AAx@Mv@Oh@Kt@UZEHARCx@I|@En@@fARlBTtCf@LDlC|@rA\\B?V?`@E\\E\\GXI\\Ml@Wl@]NI|@q@fAu@r@k@~@m@@ChAw@rA_AjCkBjCkBtAiA`@]LMh@o@h@_AdAwB@An@}A^cARi@l@uAf@qADKXu@Te@\\q@PY\\m@V[j@o@f@e@l@e@v@]VIRIn@Ot@KdAQ~@OnAQlB[dBWTExASjCa@tEu@bBS`C_@hCe@l@Mp@Sd@ObA_@pAi@d@ObA]hBo@x@[~Ag@`A[|@W`@KHCp@Kn@KtAMhAGr@CnAGdBIJ?rBINA~BGnBBpCL`CJ`BHx@@rAHhCHpBNr@HjATrCz@fEpA`HxBpCz@~Bt@tBn@|@Rj@Fr@@n@B`@EnAM|Bc@nCg@xB]x@IbAC`@@z@Dx@Nz@Tt@ZvCnArCjApAl@jCbA~Af@lCp@`Bb@zCr@r@PzCv@xD|@jCr@hCx@~BnADBnCnBzBvBlCbCfBbBlBfBpEdEhFxEjJnIHHxG`GtDjDzBlBvAxAjArAzAxBfBtCNVdBxCzAfCb@r@jD`GrCvEFHvAdCnDbGh@|@bBrCPTj@z@zAtBBDx@hATXXb@NPLPV^j@t@b@l@VZvBvCvAjBh@r@jAbBl@z@dArA@@r@~@`ApAjAzALPRVPVPRTZXXZZj@h@d@^l@b@VPx@h@l@ZVLzB|@xDjBnBz@vB`AjCnA`H|Cr@Z`EfBjFdCLFpCdBdBlAfCnCnBvBbB~BjClEj@rAjClGzGpPvAlDbE`KvA`EjAfDPh@HRb@zAp@rC\\hBX~B@PRjBJtBFlAFlAFhBDlABbBBtE?F?hCI`PAzH?lB@bBFzC@BVbFZvCBN^jCNtAb@vCJ|@D\\@HJpATtCRxCVbC`@~C\\zBr@zDxApI~@dFj@~CbAzFZjB^pCHl@?DDZVnCPjBNvAJ~@^pCn@fE~@xFBLr@|Dd@zBVhALj@t@fClAbE@DpAtEj@nBLj@XhA`@nBXvAXnA^bBRz@^xAx@vCX|@f@fBDNr@dC\\pAXdAj@|Bn@lCNn@l@jC|@tDBLd@lBH\\~@dEPt@XpATnAPbADNT~ARvA\\lCBRf@~DThBVhBVnABNT`ANj@Pb@Tj@n@rAb@j@DFv@t@nAhAp@j@JJz@x@TV`@b@x@fAn@x@tArBJNv@nAJNlAjBjB~CT`@hAlBzCdFXf@dCfEtAdCj@bAvCrFr@bAFLx@hATT|@|@@@|@|@rAnAh@l@LNl@v@V\\^r@PZhAdCHT|A|Dt@~ALZt@zBRn@Rz@J\\f@bDZjB\\`B@FXbA`@tA@Dv@lBl@jABDlBxCFHR\\`@n@T`@JR\\r@p@~AFPl@bBb@nAr@~Bp@~Br@jCl@|Bt@rCPj@Nl@FLHXFPLb@FPJXLb@L`@X|@L`@FVBHHXFRJ^FXJ`@Lh@H\\Jb@J^Ld@FTHXBLHZL\\J^BJHV^lARr@@BFRJZJ^J\\J^J^Jb@Nh@Nh@H^FPNn@Lb@@DFVFPJ\\L^Z|@HVDNHRFRL\\J\\N\\Lb@N`@L\\L`@Rf@?@LZHTj@|Ab@rAf@|AJ^Tr@\\hAX~@\\fARt@HTTv@Tr@^nA@@^nAZbAVt@?BVx@b@vAb@zAb@rAPl@Tt@tApEh@fB~@zCZbA`@nAp@zBl@lBb@xADLPj@`@pADNn@tBn@rB`@tAPj@Rp@Tt@@DLb@Nr@Nn@TtA?FFd@NbAHhAFnAJvBBrAAj@A|@GdCA\\Ex@EvAAh@?\\?H?P?`@?f@?~@Bd@?DD`AFz@Fx@Ht@@HJn@RnALh@v@rDf@~Bh@bCDRVnAP|@ZbBZhBFZTxAd@zCDTb@tCZxBFZFb@F^Hh@D^Hf@Fb@Hb@H`@RbA?@TdAJ\\BFX`APd@J\\l@rANX`@r@z@lA`AtALPV^x@pA\\n@\\n@jA~BXl@j@hAv@zAj@`A^p@f@|@B@n@dA`@n@v@lAx@hAlAxAj@l@@@l@j@h@b@p@f@z@r@\\XLJ\\Zl@n@BBd@h@`@f@PXTZh@x@h@v@f@t@Zb@d@j@VX^\\@B`@^^\\d@Zd@\\`@V^VZTd@Zb@X^XPJVP\\Tt@h@j@^dAp@HF|AdAfBlAdBlALH\\T`Ap@z@h@hAv@~@l@jAp@^PRJDBr@Zf@Rd@P`@Ld@NB@h@Lx@PTFt@Np@L|@Rr@PvA\\~@PH@bBVdABN@jAAr@GLAtAQtAQlDe@hCa@j@I\\Cd@Cx@C\\?NB`@BdATB?v@Z`Af@f@X^PHDPF\\Jn@PH@ZDF@\\Bh@@J@VAb@AvAQhAONA^Cf@@f@?fAF^DlBN|DZtAJrBPRBn@HB@b@Hj@PXHNFZLXJf@RLDb@Pl@NNBVFNBf@Dl@BB?X?l@Ed@Ih@ONEXOJ?HAJCREZERCRATCFAZGPGDAHEHE^SXY\\WTQNMVS`@W^YZS`@WVUVUt@i@x@o@DC|@q@xAeAnA_AzAgA~@q@h@[b@WXKb@SpAe@zAc@PGxBe@lCm@dAQv@SNE`AWd@OXIl@YNIl@a@h@a@dAaAfAoArA{AnAuAnC{CdBsBNQ~@mAxB{C|@sAtAqBxAsBv@kAhCsDnAiBj@}@|A_ChAsBlBkDDK|BoEBEvBcFXo@Vm@HQL]Vq@fAoCVq@Tq@l@gB`AyCPk@Xy@j@eBnB_GdCqH`@kA`@mA`AwCbAyCj@eB~@oCX{@j@eBnB}FX{@tAcEl@eBj@eBf@yADKdCoH\\cAl@qBfAkE`AwEDWjAiGDUX_BNy@z@_F\\aC@IRqBT{B@OLoBBi@NkF@k@?mA?gECo@KaE?AQ{BGw@a@wDm@cEm@oCo@{BI[s@cCUw@Qs@Oo@AG[wBEOOkBAUKaCAiBAc@B}A@_@H_BBa@B]J{@Fg@DSNq@@GPw@d@wADM\\y@V_@PYd@w@l@s@r@k@l@_@~@a@~@Q\\CZEj@ERAr@Gp@GnCQdDQdACR?r@BB@l@NRHPHb@TLJd@`@X\\\\b@Zf@HPf@jATp@Nb@XdA@F\\`B@FPdANxA@VH|AL`DDdALvCF~@JrA@LN~APxA@LXpBT|Ab@~B`@hBZlANj@d@dBr@zBj@dBP`@j@nAb@r@V`@bAhA\\Zb@^~AfApBbATJj@V~Ad@HB`BNB?bAFN@zAF^BhAC~@CbBSnBUn@C^AjABp@BTAVAh@Af@CDAdAIfAKbAKj@Ih@K^MVKFCd@Sr@a@d@Yl@a@t@c@^Uf@U\\OJEb@OTEBA^Id@I`@EJAnAM~@ITCj@Gt@GbBOfAKr@Gl@GdAGnBOr@CFAh@Cd@E`@I^K^OLEv@e@\\WHGnAw@HGfAs@ZUv@g@n@_@^QHEx@]@?v@[JEzAm@l@Wb@QfBs@HC~BaAXKdA_@FCbBk@DAl@O|Ac@JEp@QnA]h@OfBe@bAY^KlA]pBi@v@UfBe@fAYb@Mt@Ul@Ub@UBAd@[XSXS^YDE`@[~@w@VSHEZU^WDAZO^O^MJC\\G\\G^ENALAZ?\\?J?\\@v@Hr@FdCPvCNvBTbBJp@Bd@@F?h@Af@Ah@Il@GbAOrASxAUt@KLCrAUtAW`Ba@@?vBo@pAe@FC~@a@dB{@BCj@[fAq@x@i@pAy@dAk@xAiAj@i@NETQ`A}@f@m@JOTYV[v@gAb@o@@AZc@Zc@^g@@Cn@{@LSZi@JSj@sAp@mBNYh@sAFIb@{@d@}@f@_Al@gAXs@Rq@Ty@Ns@Ha@T_BFq@Fg@LkBF{AD}AFeBHwABq@?AFaAJ{AHkA@SH_ANcBBWJgAHs@Ba@PwAVeCJq@L_A`@sCF[z@qF\\qBN}@\\oBf@mCb@sCb@gC\\mBV}ABQRoAPyAReBNgBFu@Ds@FiA@KDgAJeBHuABo@@a@B{A?C?kAAc@AOI{@IaAAQWoAOy@EQYiA[}ACK}@eEm@oCKi@[qAQcAM}@Gu@C_@AICu@AYCy@?m@@[?]Dw@?IDq@@KFo@BMFg@RcAZmAd@qA@A\\q@n@}@FGf@g@rA}@fAq@b@]\\[@?`@c@Zc@`@q@t@kAT_@^m@~@wAPYn@}@HMb@q@Xi@Ta@Ra@\\s@\\w@Ri@@Cf@yAT_A@Ef@yBX}AR}@Nw@Je@Ry@J]JWf@mAZs@d@{@HO^s@j@aA\\k@BEh@}@Zg@LQFGZa@f@m@d@g@f@i@FI`@i@PSHMZc@P[Xc@Zk@Zs@r@uABE`@}@Zm@Zm@j@_AV_@V]`@e@l@u@^g@f@w@b@i@Ve@FKTe@Tg@b@aAVq@Xy@Na@R_@JSP]NYV]JQJMZ]j@k@`@a@h@o@Va@FGn@}@@EZg@Zg@R[b@y@f@}@`@w@DI^i@j@y@l@u@X]n@{@nB_CpAcBp@iAfAkBx@}Ax@aB`@o@Tc@|@_BlAaCr@sARa@lA}Bn@kAr@gBTs@FUb@{AXkARm@BGf@_BN]P_@NWNY\\g@\\]|@cA@Cf@i@PUDEd@s@LQHKVc@Zk@Zs@Re@`@cAL[Xk@Xa@h@{@bBuBb@i@BCVY\\k@@AZe@Xi@DGXg@Xk@Rc@P]Ra@Ti@Tm@JWFODKNc@JYJ_@Ng@Ro@Nk@Nk@Ha@BEJe@VaAJe@Pm@HULa@\\aATm@FQRa@Va@R_@V[PUNST[R[LSR[JQXi@Tc@N[HSPe@Je@@EHWDULq@Fq@D]@IF_@Dq@Dk@HmAFiADi@D_@@ODSJu@Jo@No@@CPm@Zu@h@_AT]\\c@RYb@]TOh@Sn@On@Ad@?H@d@Ft@JlFfAtCh@jB`@NBb@JJBVDb@HNBJBRFXFHB`@Jz@JF?b@D@?`@@R?r@?~@Kr@IZAt@GdAGl@C@N"
+              },
+              "start_location": {
+                "lat": 56.8207633,
+                "lng": -5.1042478
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.390193,
+                    "lng": -4.6184005
+                  },
+                  "name": "Crianlarich"
+                },
+                "arrival_time": {
+                  "text": "7:22pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604258520
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 56.8207633,
+                    "lng": -5.1042478
+                  },
+                  "name": "Fort William"
+                },
+                "departure_time": {
+                  "text": "5:37pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604252220
+                },
+                "headsign": "Glasgow Queen Street",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "ScotRail",
+                      "phone": "011 44 344 811 0141",
+                      "url": "http://www.scotrail.co.uk/"
+                    }
+                  ],
+                  "color": "#30104d",
+                  "name": "Mallaig - Glasgow Queen Street",
+                  "short_name": "ScotRail",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/uk-rail.png",
+                    "name": "Train",
+                    "type": "HEAVY_RAIL"
+                  }
+                },
+                "num_stops": 8
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "10 m",
+                "value": 10
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 56.3902963,
+                "lng": -4.6181173
+              },
+              "html_instructions": "Walk to Crianlarich",
+              "polyline": {
+                "points": "yudwIb~d[A?OB"
+              },
+              "start_location": {
+                "lat": 56.3902083,
+                "lng": -4.6181025
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "10 m",
+                    "value": 10
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 7
+                  },
+                  "end_location": {
+                    "lat": 56.3902963,
+                    "lng": -4.6181173
+                  },
+                  "html_instructions": "Head <b>north</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                  "polyline": {
+                    "points": "yudwIb~d[A?OB"
+                  },
+                  "start_location": {
+                    "lat": 56.3902083,
+                    "lng": -4.6181025
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "67.5 km",
+                "value": 67451
+              },
+              "duration": {
+                "text": "1 hour 10 mins",
+                "value": 4200
+              },
+              "end_location": {
+                "lat": 56.41247199999999,
+                "lng": -5.473909000000001
+              },
+              "html_instructions": "Train towards Oban",
+              "polyline": {
+                "points": "gvdwIl`e[?NU?[?u@Aa@CWE[Ck@@_AJ_@PGDYT[XAB]b@GHKLQXS^EHSZGJQVIRO\\GNMZITK^IRQh@e@nBIXGZWbAa@~ACFYjAGXs@tCm@`Cq@pC}@rDCJa@`Bs@tCQz@ABOv@c@rB[|A_@bBCJq@pCw@bCo@zAuAfCo@bAiAjBeApAc@f@o@z@Wb@c@t@ABq@tAOd@_@bAk@bBa@vAa@rAQb@Sj@e@~@QZw@nAy@lASZm@t@g@r@c@n@]l@S^_@t@AD]|@Wt@e@tAk@bBcAxCWp@]|@IVIVQd@Sl@Wp@_@fAuAfEe@rAYx@o@lBeA|CK\\q@pBgA`DK\\wAnEm@`BWp@Qh@Yz@GPEPUt@?B_@tAEPSr@Sx@Sz@_@rAKZQh@i@nA_@z@CFm@rAs@zAQ^GLaBdDw@fBe@bAy@dBaAtBaApB]r@aAnBe@bAo@tAw@|AUd@qAnCITaApBqBjEg@dAa@v@_BhD?@qAnCgA|BS`@}B|EINWl@kAjCITKV]`AKX_@lAABa@tAa@~AUdAg@pBUdAWjAcApEOr@k@dCc@lBs@~C]dBCJi@~Bw@fDg@fCADa@`BCLe@tBUlAWzAMx@?DQ~AOzAGv@CVK`CGtC?N?hC@lC@l@BfALvB?BL`B^xEd@lEd@|EDh@`@nER|BFp@l@bGFn@`@fEJnAf@fFBTJfBBP@l@B~@DdAAz@?`A?LIpBATOfBE\\Q|AEb@]nB[|AQj@Ux@Uj@Wp@MXe@~@Q^m@x@UXe@h@WRy@p@GDKHMHm@`@k@`@aAn@A@yA~@kBbAuAn@UFgAZaATuBNaABa@AM?oAI{@Kg@GwAUiASgAOa@Ga@EcA?c@@g@Fi@J_@Ji@Vm@X[TIFg@f@]Zc@h@INe@n@Yf@Wl@Q`@O\\k@~Ae@rAQd@]hAa@pAGPc@tAm@hBSn@KZm@tB}@`DW`Ag@jBMf@YbAQh@W~@GTA@g@hBm@bBO^a@~@_@~@{AhDEHq@zAw@fB{@nBa@~@Ub@OZc@v@A@g@r@QVc@l@eAtAcAtAk@~@g@dAKRs@bBk@hB[pAOr@SbA[hBKf@s@~DEP_@tBe@jCUhASjAg@vC_@zBOr@m@jDCFw@pEEVq@lDEVg@vCGZcAvFk@xCIb@u@dEi@tCaAhFIf@}@pFCJ[jBQjAKt@sAvKOnAuAzLeA~I{@rHG^y@`HUhBe@tDOpAQ|AIx@IbAEp@Cz@AX?^?x@BjBJ~F@^J`DRrGn@pVFdCLxEXdJHnBF~ADt@@VHhAHhARjBTbBTlAZtATfAb@zAj@rBd@`B|@|CJ\\dAlD@FnAxENl@V|@Rr@^fBBHPfAP`ATzALbANhAHn@Lz@XxB~@lHNdAVnB~@nHRdBRzAf@hD\\nCJx@Ff@?@DVH|@TjCJrA@DL|ARzBNfBFn@?@r@~IBVPpBRfCNhB^nEd@xFDd@VxCHz@RbCTjCDf@RfCNdBHhAFt@Fp@b@hFj@bH\\~DPxBZjD@NLlAFf@\\zBHr@z@vFFd@DTLz@Lx@rB|MZtBZlBPrALj@PbAPz@Jd@@D^tA^fAtAnEDLzDdMd@xAfAhD`AxC~@zCh@|AlAvDh@vAPf@LXVf@NRX\\BD\\b@vBnCz@dAxAjBpA`BFHxBjCrA~A~ArBtDrEvBlCz@dA\\b@xBjCz@dA|@dAf@n@RVx@hAj@t@LTdBzCl@vAx@vBPd@z@xBP`@~@~BFPDNp@pBFVf@lBFXT~@VfATx@DPN`@Tp@@@Vj@Xl@@BXb@HLt@|@lA~@p@b@v@f@jAz@NL\\XPP^^BBzAjBV\\h@p@n@x@z@hABBtBhCZb@z@fABBzAbCxAfDdA~Bv@jBZv@f@hA^v@Vh@rA~Bx@vAx@hA\\\\t@t@rClCPR~CvC^^zBtB`@`@|@|@DDrAxAl@`Ah@z@j@|@dArB^bAJRd@fAnAjDRn@dAzCj@bBv@~BJX`AxChAjDPv@Hd@DTx@xGTfBZvDJrAJbAL`AJn@H^l@lCRn@Tr@Tp@Tr@\\hAx@dCPj@l@jB?@b@dB@FVnAFd@Lt@P`CJrAv@fNF`Af@~LDdAFvA@`@@XFhAL~A`@`D@NHt@DjADlABn@Z`K?HHxD@|@@r@?bBGtKChN@x@@bABr@Dx@Dp@D|@D\\Fl@v@nELd@VhAd@~Ar@bC\\pARlAF^BTTvBVnDNdCRhBJ`ABPRv@`@~ATj@HNXd@RX\\d@j@j@RLb@X^JbAX|Af@`AXPLTP`@V`@n@@Bb@x@Lb@\\fAFb@Lt@JbAh@|Ft@bK\\fEHdBHdBDxA?R?jCA`@EhBOtA?D{@dFKz@QvAO`B?@CzBCjDCbA?vA?nADpDBlALvH?Bb@`Jb@rJBdBR`Q@fAHbIPpVD|IDnJAtACfHMvG?FS|F]jMS|FMfDk@dRWjGIfEQjEKzEAFEtBExDAlCC~@Af@Cp@Cf@K|Ag@xEQzBCZI`AEbA?\\?n@CtB@|A@z@?BFtC@nDEdFEnBGlBCf@KdBMfB[`DUtBSvAWzA[xA]`BqAnFw@~Ce@hBm@fCu@zCSx@Od@CJ[~@_@fA]v@Uh@Uf@a@p@Ud@e@`AQ`@]t@Wp@Y~@g@hBIb@IZCTIj@WrBMtACXIjBAx@Ax@@xBBnC@`C?|B?BC`CAd@CxC?BIrIM|D?x@C~BCdA?FCzAErCKxBG~AOdCIrAO~BMxAC\\InAQjBIn@Ip@Mp@Q~@Qt@e@lBIZK`@St@?DSr@e@jBSv@CJc@|ACL]nAWfAW~ACVKv@Gh@Gt@GdAEpA?HC`F@|CBhD@`E@~A?p@@dC?zD@nD@pEB`E@xC?R?lBCbBAf@Aj@MvAGl@Ef@c@lCOv@Id@ERQp@IVMXABIRe@hAWn@yAdDqCbG}AjDcA|BUd@eA~BiAlCEH_AnBe@dAWj@s@~A{@dCYhAOl@SbAUbBMfAKjAG~@ErAAf@AV?hB?Z?d@@r@DdAFtAH~@LnAPjANdADXP|@HZLh@DJTr@DPN^L\\HPXl@FNPZVd@BBZf@HLRTNRLL^`@|@~@@@bBfBt@v@\\`@zAdB^b@f@j@f@n@f@n@PRV\\f@l@h@|@Vj@\\x@LZ\\bALb@BJJj@@@Jh@BLF^DZ@HHt@Jh@Jn@Hf@Lh@BFPt@Nn@J^b@|@?@\\p@Th@v@fBR`@b@v@d@fAN`@Vp@d@tANf@`@nAt@jCPh@Nf@\\z@@@h@lA^v@p@pAv@pB|@tCPp@\\jA\\rAHVl@bBd@`Av@lABDb@p@p@`An@|@HJt@|@t@bAr@fANV\\l@j@pA^v@Tj@Xp@h@bAJNr@dA`AhAJLbAtAHJx@rAz@~A^p@n@rA`@v@Zn@^z@JTd@hABDXn@Xr@P`@P`@N\\P`@Z~@`@lA`@xARp@ZrARt@Lh@X`ABHr@xB^fAFNXbA`@vAn@lCV`APr@^lA`@pAh@rBd@lBLn@@HFZBP?BDVDd@JpAFh@H|@NzAD^H~@J|@@TPdBJdARdCLtATvBRdCBZPnBT|BBVRlBVfCDf@NvANpBPlBD`@LrA@DJrAN~AHdAF`ABp@@`@?dA?|@CnCCzAGnFIdEGpFC`BCjAA|ACpAEdAEl@GdAAJCh@MnA?BGl@OhA?@Gh@M|@Mt@OlA?DOdAIj@ADKf@Kj@I\\CJOh@ABSn@Yt@Qd@Yv@[bAMd@I\\Or@Qv@WjASx@AFM`@[lAg@dBi@hBCHa@dB?B_@hB?BEVW|AOz@OlAKh@E^WdBIl@Kv@Gl@En@Eb@ALEz@Ct@?RIdDEfACd@SxB[tCK|@AHOhAIb@EXe@`C]vAMf@[xAWnAk@dC_@pBY|ACLa@pBaAbEWbAQx@I^QbACNQjAKx@Kr@Il@Ot@Oz@CHMn@U~@St@?BSp@ERY~@YdAWdA_@hBELOdAOdACXMrAKfBGt@EnBCjBCx@EvBChAAv@?@Cx@Cz@G~@GfAANKbAe@tDW~A_@nC_@zBStA_@`CIh@Op@{@pD{@jDQr@s@lDGXq@vDWnASfAOz@a@zCAHG|@?BGhAAr@GxBGxBG~AAl@GdBAZA\\ElAKpAMzAQxAi@vDQnAGh@UjBALMrAMfBU|C_@zECRU~CSxBAJ[|Bg@lDKr@S`AMt@Sx@g@lBI^YnAEPi@zCOx@QbA_@|BIh@c@fCWxAS`A]~AENi@vBUz@Yv@MZGPe@`A_@r@Yj@CDUd@KRMXSb@EHs@rB_@nAAHYpA]~AQdAQv@Kf@UdAMh@GR_@jAg@hAk@bAs@rAQXi@`AU`@]j@Wh@k@fA_@r@CF[v@Sh@Qh@o@hBWt@]`Ae@tAY|@aAxBCFm@pAEH}@nBMXs@xA?B_AlBe@dAe@bAwA`DIN{@bBiAvBOVmAvB_@p@u@rAKRcApBUd@c@nAI\\Qp@c@bC]hCE`@WlB[fCk@nDQv@m@zCw@~C[fAg@bBADk@fBWz@i@fBQl@GV_@xAOt@Mr@]xBA@SlAIh@G^GZI`@Ib@K`@Ur@Wv@CDWn@Wd@ABWb@A@SZg@j@A@]ZaAn@A@o@V{AX{APeANMFMBi@RMHi@X{@|@m@`A[f@[|@Uj@?D]`BAPY~BGzBCn@?N?~BA`A?f@C`CA^A^Ct@?HKnAIj@MfAa@tBo@nCi@vB?@e@lBCPm@vBs@lCSh@g@zA]t@u@`Bo@rAQZ}@hBUb@kBvDu@xAYj@aC|EoCvFg@bA{AxCKTk@hAqBbEOXe@z@y@~A}A|CuAtCy@hBu@nBw@nCo@nC?@s@jDm@|CkAzFw@bEeAdFq@tEUnCMpE?jC?HHhCTdDBL^zCf@|Cp@vE^~BRtAl@zERdBJnAFn@HnABX@b@Dv@Bj@@t@?HB`A@j@@R?l@@`@?\\?`A?^?^?hAAvC@hFApE?dD?jA?~BAtCDz@AbA@pD?`@?L?tC?fEAtDAtDArCA~@@bCAb@?|AAzCAfD?n@@vCCx@C~@G`A?JIr@[rDO`AOdAg@|B}AtF?@m@bBm@fBGRIRGRcAvCGN}@dCmAjDc@lAeBzEK^w@zBs@zBkAhFAFYlB]tBEXGb@S`BCVUxBc@bEs@hHm@`GUrBQzAG\\Mv@QdASx@a@nAk@lAiA`Bs@dAEBa@V{@j@E@c@Dc@FcALC?c@CgACgBIiCDmA^gAX_Ap@A@qAvAkA~Aw@`BcA|CyAvFoAzFu@hE]nDM|BMtCMxDUjES~AIj@iAhFy@zBk@dAy@xA}A`CqB|Bs@jAYd@]v@e@jA_@pAi@rB]fA_@zA_@rAg@jBg@tBqAjEWp@a@fAc@~@iA`Ca@t@o@fAiAfBST_AbA{@x@_CfC]\\}A~AQNaCfCcAzAk@zAQx@EN_@jCKvCFrCb@rDZ~Aj@hC`@rBVzBPvALnBLlC?LDvAH|A@JHvAJ~AN~ANhARfB`@rC\\hCXpBD\\j@rDf@pDZjB\\|BbAdIj@nE~@~DHPtChGBDhEbGdE|FHPr@xAHPj@dBFRDLNd@XhAf@bB?D`@fCT`CLzADr@@TBp@BnA?V@hBAv@?RA^AfAAFAn@GhA?DIjAGdAGhAUzD]~CK~@c@lBERu@lCGTwBtEWf@oFjKOZiDrGKPyCtF_CvES^kAzCWt@uAzDmBtFeClHaD~JM^sArHWjBOrBE\\C\\Cf@IhCCjD?FH~FJjCNtB@RHtABTFr@TxAl@pD^~B`@dC^bC`@xBj@xCTrAZpB\\fBR~AVpALbA@JJjAHrBBfABpA?X?x@?v@EhACz@KzAI~@OrBKfAI|@GfAI|@K|ACv@Ax@@|@@n@B~@Fz@LbAHd@Jj@BJDVNp@T`ALr@TdAXxA\\bB@BVrAZpBb@vDDf@F~@F~@F|@F~@D^B`@BV@RDh@HbAFx@H|@H~@F|@PzBVjCVdDJ~AFpAFpBDxC@v@@hAGlFAb@OtGAl@A`AA~@A`A?\\@`@@`A@TBh@@ZB\\?JHn@L|@Jz@J|@Lz@x@zGPpA`BpMjBtNp@hFBJfAtEr@dBZt@~AtCJH~A|ApCxAnARp@FJ@pBQtB_@zBa@lBEnAFLBp@Lz@\\hAn@zAzAlAfB@Bn@bADNZv@dD~J\\dAnD|KbBjFxA~ER`APv@v@fF`@fCd@lCZhA@@r@rB`@bAz@|A`BhCzA~BrAtBbA|A\\f@TZ|@v@|BjBlB|A@BtA`AvC`CVR`DjCnAdA~IfHVTpDhDhAlA^`@dB|BfB|CxAfCtCnGlBfGhB|EVp@n@~AfApCVn@LXhBvEtBhFBDfCfGhAnCb@v@^l@f@f@p@b@l@N`AF@?z@Gl@S`A[|By@l@Oj@CD?j@Fj@Pj@X`@ZLJj@x@f@bATn@J^Jb@Hv@RrBl@tIPxAHf@F\\Px@Rf@~@tBj@l@h@ZNFRHh@Pj@@L@TC`@EHAXIb@MXId@ONGPEj@Md@AT?LBb@HbA\\bAbAjA|BbAjClAzE~ArEtBdFpBnENX~AvCdA`C^rAThAz@jDJd@\\dBf@rAjAvCv@rB?@v@nCDLXvAVtALx@d@xDPzBb@pFj@|Gj@bEp@vCb@pA\\bAdArBBDtAdBDFt@`AZb@n@`Af@t@n@hADF`@x@b@`ABNb@dBXbCFlA?p@@`A@l@?PA|@?@G~@Mz@AJOdAQv@GXKXUr@Yl@O\\s@fA{@v@eAj@}@ZuAPqAPsC^aC|@_Dx@{@VuBn@uCv@o@Xu@ZMDc@LE@_ANc@Gw@Ao@OC?g@Ua@[_@_@[_@i@u@c@aAEMoCgIQy@"
+              },
+              "start_location": {
+                "lat": 56.39027790000001,
+                "lng": -4.6184746
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.41247199999999,
+                    "lng": -5.473909000000001
+                  },
+                  "name": "Oban"
+                },
+                "arrival_time": {
+                  "text": "9:24pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604265840
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 56.39027790000001,
+                    "lng": -4.6184746
+                  },
+                  "name": "Crianlarich"
+                },
+                "departure_time": {
+                  "text": "8:14pm",
+                  "time_zone": "Europe/London",
+                  "value": 1604261640
+                },
+                "headsign": "Oban",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "ScotRail",
+                      "phone": "011 44 344 811 0141",
+                      "url": "http://www.scotrail.co.uk/"
+                    }
+                  ],
+                  "color": "#30104d",
+                  "name": "Oban - Glasgow Queen Street",
+                  "short_name": "ScotRail",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/uk-rail.png",
+                    "name": "Train",
+                    "type": "HEAVY_RAIL"
+                  }
+                },
+                "num_stops": 6
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 233
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 172
+              },
+              "end_location": {
+                "lat": 56.4120475,
+                "lng": -5.476384899999999
+              },
+              "html_instructions": "Walk to Oban Ferry Terminal",
+              "polyline": {
+                "points": "uaiwIjal`@CFEBKAKNCFQb@ADC^?L@d@@HB`@?JBHJp@Pf@JVHXTn@Tv@DLZbAJNDIHM"
+              },
+              "start_location": {
+                "lat": 56.41259059999999,
+                "lng": -5.473664900000001
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "0.2 km",
+                    "value": 233
+                  },
+                  "duration": {
+                    "text": "3 mins",
+                    "value": 172
+                  },
+                  "end_location": {
+                    "lat": 56.4120475,
+                    "lng": -5.476384899999999
+                  },
+                  "html_instructions": "Head <b>north</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                  "polyline": {
+                    "points": "uaiwIjal`@CFEBKAKNCFQb@ADC^?L@d@@HB`@?JBHJp@Pf@JVHXTn@Tv@DLZbAJNDIHM"
+                  },
+                  "start_location": {
+                    "lat": 56.41259059999999,
+                    "lng": -5.473664900000001
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": {
+                "text": "16.6 km",
+                "value": 16562
+              },
+              "duration": {
+                "text": "46 mins",
+                "value": 2760
+              },
+              "end_location": {
+                "lat": 56.470741,
+                "lng": -5.706289000000001
+              },
+              "html_instructions": "Ferry towards Craignure Mull",
+              "polyline": {
+                "points": "g_iwI~ol`@@~Fg@@y@BSBQFOJMRCDKPS^g@pAUt@S|@i@hCe@xBWpAId@WhAiA~F]vA}@fDIXoAhDcBvDo@fAq@t@UNa@TsFbAqLpAO@sH`@c@BqBn@y@b@o@ZwAvAyAhBeBhC_A|AU^kArBcAbCaAtDu@bEs@xEg@`Ec@tEu@tKw@vNc@zMCv@i@pNeAxU_Bx^KfCeAhVgBtZ{E`l@mDt_@aIdz@yRr_B{B~Qkb@jeDmV~bBgIte@oKze@mJf`@aMv^{M|Z{Txa@aJxQcKlWqG`UiOhp@sIfc@oFb`@yGfe@yBpRY`EeAvNu@fUQ|EBfYBjBLjHTxKLbCTpF@Lp@hKPnB^`E`AfH?@h@pDrA~ILbA~CjI"
+              },
+              "start_location": {
+                "lat": 56.4122038,
+                "lng": -5.4759978
+              },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": {
+                    "lat": 56.470741,
+                    "lng": -5.706289000000001
+                  },
+                  "name": "Craignure Mull Ferry Terminal"
+                },
+                "arrival_time": {
+                  "text": "7:31am",
+                  "time_zone": "Europe/London",
+                  "value": 1604302260
+                },
+                "departure_stop": {
+                  "location": {
+                    "lat": 56.4122038,
+                    "lng": -5.4759978
+                  },
+                  "name": "Oban Ferry Terminal"
+                },
+                "departure_time": {
+                  "text": "6:45am",
+                  "time_zone": "Europe/London",
+                  "value": 1604299500
+                },
+                "headsign": "Craignure Mull",
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Caledonian MacBrayne Ltd",
+                      "url": "https://www.calmac.co.uk/"
+                    }
+                  ],
+                  "name": "Craignure Mull - Oban",
+                  "short_name": "CM11",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/ferry.png",
+                    "name": "Ferry",
+                    "type": "FERRY"
+                  }
+                },
+                "num_stops": 1
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": {
+                "text": "21 m",
+                "value": 21
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 56.470577,
+                "lng": -5.70611
+              },
+              "html_instructions": "Walk to Craignure, Isle of Mull PA65, UK",
+              "polyline": {
+                "points": "cmtwIhoya@^c@"
+              },
+              "start_location": {
+                "lat": 56.470741,
+                "lng": -5.706289000000001
+              },
+              "steps": [
+                {
+                  "distance": {
+                    "text": "21 m",
+                    "value": 21
+                  },
+                  "duration": {
+                    "text": "1 min",
+                    "value": 22
+                  },
+                  "end_location": {
+                    "lat": 56.470577,
+                    "lng": -5.70611
+                  },
+                  "polyline": {
+                    "points": "cmtwIhoya@^c@"
+                  },
+                  "start_location": {
+                    "lat": 56.470741,
+                    "lng": -5.706289000000001
+                  },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "wxxyIp|c^wOmeAo^chAwy@cdBcVciBiI_Q}NsEmX_Nkr@ciByxA}_FuyA{jHyc@ikG]ax@jFgr@|Lqm@hHooA_BkfCjSokCz@cfAaEmTuQwTyBaa@pG{ZeMccAxPebDqDk{C|E}NlN_N`KwfA{E}{@pGk]xm@cAr_@rPnOv`@`NhQlc@zItX`Szg@xBpOuAfPhGjh@nC|m@L|g@S`q@~N`SjLjb@~Fx_Ap`@pl@x`@~Q|N`_@rDjTgQ|HsXuBou@pN{g@rS{c@fH{Z|IcJhUmUhZul@`WmTlLy]blAe}A~Pgl@nQiUfU}YtKuc@jj@koB`k@g~Adk@umAfa@mhBpKg]nQo@vNsLbH^rGlMrQnCj[bC`]yUpN{Y`iAoYjd@iAnw@vOfTgCfSrG`_@|J|[pShaAhdAb_@xl@~Wd^d\\xRtc@rTr_@vs@pQjy@rC`lAzNbcAz]dfBrYvsAlv@fhA|`@p_A~Str@t]bjAh[hfAzFb~@lQjw@hf@lq@fe@p`@~TvKd[jB~i@bAxi@nEb[uQ~\\wLf]q]rb@et@fTon@pZ_~@tLez@{H}r@i@s]pNoQnWD~QpcAzHnObOhGvY_@dd@sK|k@gQjt@qVfLiFd\\nAl^}IpVsSjLwTfG{_@dQ}sAeGi{@nB{TjP_RnXop@`u@ujAd~@ebBb[ccAxj@~CpD}@yDdAeI`GqVnaAqd@b}@ghArtCqc@`xAgEzg@tHn}@Jfa@eL~U_\\tJiVTyZxz@{Qp^aOvh@yb@~sCExfA~Gbw@jXb~AdQvuBjd@hnBr{@`oA|GzTnSjSby@xjA|]tvA`Jh`C`S|_AnJnE|CdQSvu@hCjqBiEd}BwG|aBaXpgAcG|`BiGzXCtbAsCnYoZfr@oBb_@tE~Sn[pd@pRpm@nd@`}@tZly@|M`cA`AltAgLdi@c`@b~B_^xeDgU|nAaWdq@cd@peA_UfeA}OfI_J~ZwEn`@}Zxr@cZlv@_Hrj@pEd`@zBd]@xs@Qvx@uKbf@oQzr@uEza@cIfMiJJwPlKgVxlAkTxk@m[zc@jEbu@fNvaAtXzn@BpXoDzXgVve@e[jiAlMn|Aw@~`@fGd`@~CnnA~MtcAnPnOlR}@bK`LnSps@j\\zk@pZjVfYte@`\\lr@fM}BlGxE|Jha@zLaAx^xy@fO|z@bQp]EdZiKxI_[bIwOoE_FqKOtDhBjGv@z@}BxDoCtD}FxXqKhW{e@fHmP|UiKtiAiRfkDef@nnEqpA|vIoX~_Awc@v}@ao@rqBw]d~BgD~q@bCfkA~K|n@^c@"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
