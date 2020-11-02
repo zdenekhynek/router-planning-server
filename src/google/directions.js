@@ -1,5 +1,5 @@
 const cachedFetch = require("node-fetch-cache")("./.cache");
-
+import format from "date-fns/format";
 import tempData from "../fixtures/directions/craignure-loch_awe.json";
 
 export const parseStep = (step) => {
@@ -18,7 +18,7 @@ export const parseStep = (step) => {
   };
 };
 
-export const parseLeg = (leg) => {
+export const parseLeg = (leg, date) => {
   if (!leg) {
     return {};
   }
@@ -31,7 +31,10 @@ export const parseLeg = (leg) => {
   const duration = leg.duration ? leg.duration.text : "N/A";
   const steps = leg.steps ? leg.steps.map(parseStep) : [];
 
+  const formattedDate = format(date, "do MMMM");
+
   return {
+    date: formattedDate,
     start,
     end,
     arrival,
@@ -42,10 +45,10 @@ export const parseLeg = (leg) => {
   };
 };
 
-export const parseGoogleResponse = (data = tempData) => {
+export const parseGoogleResponse = (data = tempData, date) => {
   if (data && data.routes && data.routes.length) {
     const route = data.routes[0];
-    const legs = route.legs.map(parseLeg);
+    const legs = route.legs.map((leg) => parseLeg(leg, date));
     return legs;
   }
 
@@ -66,18 +69,18 @@ export const getGoogleDirectionsUrl = (from, to, date) => {
   const origin = from.address;
   const destination = to.address;
   const departureTime = date.getTime() / 1000; // convert ms to s
-  
+
   const queryParams = `mode=${mode}&origin=${origin}&destination=${destination}&departure_time=${departureTime}&key=${key}`;
   return `${url}?${queryParams}`;
 };
 
 export const fetchGoogleDirections = async (from, to, date) => {
   const url = getGoogleDirectionsUrl(from, to, date);
-  
+
   try {
     const response = await cachedFetch(url);
     const json = await response.json();
-    return parseGoogleResponse(json);
+    return parseGoogleResponse(json, date);
   } catch (err) {
     console.log("url", url);
     console.error(`Error fetching data: ${err}`);

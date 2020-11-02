@@ -9,17 +9,26 @@ export default async function getItinerary(journey) {
   const trips = journey.reduce((acc, from, i) => {
     if (i < journey.length - 1) {
       const to = journey[i + 1];
-      acc.push({ from, to, date: from.time.departure });
+      acc.push({ from, to, date: from.time.departure, stay: to.time.duration });
     }
     return acc;
   }, []);
 
   const fetches = trips.map((trip) => {
-    const { from, to, date } = trip;
+    const { from, to, date, stay } = trip;
     return getDirections(from, to, date);
   });
 
   const results = await Promise.all(fetches);
 
-  return results;
+  //  amend results with stays
+  const amendedResults = results.map((result, i) => {
+    const { stay } = trips[i];
+    if (result.length) {
+      result[0] = { stay, ...result[0] };
+    }
+    return result;
+  });
+
+  return amendedResults;
 }

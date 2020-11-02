@@ -38,28 +38,36 @@ export const enforceTimeWindow = (date, timeWindow = [8, 20]) => {
 export default function calculateJourney(places, dates) {
   const startDate = dates[0];
 
-  //  for now just reshuffle them
+  //  @TODO - reshuffle places
   const orderedPlaces = places;
+
+  //  add first place to the end as a final destination
+  if (places.length) {
+    orderedPlaces.push(places[0]);
+  }
 
   //  and add times
   let currTime = parse(startDate, "yyyy-MM-dd", new Date());
   const journey = orderedPlaces.reduce((acc, place) => {
-    const hourDuration =
-      place.time && place.time.duration
-        ? parseDuration(place.time.duration)
-        : 12;
+    //  deep clone
+    const newPlace = JSON.parse(JSON.stringify(place));
 
-    place.time.arrival = currTime;
+    const hourDuration =
+      newPlace.time && newPlace.time.duration
+        ? parseDuration(newPlace.time.duration)
+        : 12;
+    newPlace.time.arrival = currTime;
 
     //  get the soonest possible departure
     currTime = add(currTime, { hours: hourDuration });
 
     //  enforce departure in time window
-    place.time.departure = enforceTimeWindow(currTime);
+    currTime = enforceTimeWindow(currTime);
+    newPlace.time.departure = currTime;
 
-    acc.push(place);
+    acc.push(newPlace);
 
-    //  @TODO - add for travel duration from some interal data
+    //  @TODO - add for travel duration from some internal data
     const travelDuration = 4;
     currTime = add(currTime, { hours: travelDuration });
 
@@ -70,24 +78,3 @@ export default function calculateJourney(places, dates) {
 
   return journey;
 }
-
-// export const getFetchUrl = (from, to) => {
-//   const { TFL_APP_ID, TFL_APP_KEY } = process.env;
-//   const BASE_URL = "https://api.tfl.gov.uk/journey/journeyresults/";
-//   return `${BASE_URL}/${from}/to/${to}?app_id=${TFL_APP_ID}&app_key=${TFL_APP_KEY}`;
-// };
-
-// export const fetchJourney = async (from, to) => {
-//   const url = getFetchUrl(from, to);
-//   try {
-//     const response = await fetch(url);
-//     return await response.json();
-//   } catch (err) {
-//     console.error(`Error fetching data: ${err}`);
-//   }
-// };
-
-// export const getJourney = async (from, to) => {
-//   const json = await fetchJourney(from, to);
-//   return parseResults(json);
-// };

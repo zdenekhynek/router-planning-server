@@ -1,36 +1,6 @@
 [
   {
     "id": 1,
-    "address": "Fort William,UK",
-    "coords": [],
-    "region": "Scottish Highlands",
-    "types": ["outdoor", "city", "seaside", "rural"],
-    "time": {
-      "duration": "24h"
-    }
-  },
-  {
-      "id": 2,
-      "address": "Craignure,Isle of Mull,UK",
-      "coords": [],
-      "region": "Scottish Highlands",
-      "types": ["outdoor", "seaside", "rural"],
-      "time": {
-        "duration": "12h"
-      }
-  },
-  {
-    "id": 3,
-    "address": "Lochawe,Dalmally,UK",
-    "coords": [],
-    "region": "Scottish Highlands",
-    "types": ["outdoor", "rural"],
-    "time": {
-      "duration": "48h"
-    }
-  },
-  {
-    "id": 4,
     "address": "Glasgow,UK",
     "coords": [],
     "region": "Scottish Highlands",
@@ -40,7 +10,47 @@
     }
   },
   {
+    "id": 1,
+    "address": "Inverness,UK",
+    "coords": [],
+    "region": "Scottish Highlands",
+    "types": ["city", "seaside"],
+    "time": {
+      "duration": "24h"
+    }
+  },
+  {
+    "id": 3,
+    "address": "Fort William,UK",
+    "coords": [],
+    "region": "Scottish Highlands",
+    "types": ["outdoor", "city", "seaside", "rural"],
+    "time": {
+      "duration": "24h"
+    }
+  },
+  {
     "id": 4,
+    "address": "Craignure,Isle of Mull,UK",
+    "coords": [],
+    "region": "Scottish Highlands",
+    "types": ["outdoor", "seaside", "rural"],
+    "time": {
+      "duration": "12h"
+    }
+  },
+  {
+    "id": 5,
+    "address": "Lochawe,Dalmally,UK",
+    "coords": [],
+    "region": "Scottish Highlands",
+    "types": ["outdoor", "rural"],
+    "time": {
+      "duration": "48h"
+    }
+  },
+  {
+    "id": 6,
     "address": "Sheffield,UK",
     "coords": [],
     "region": "Yorkshire",
