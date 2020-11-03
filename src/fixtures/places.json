@@ -55,5 +55,45 @@
     "coords": [],
     "region": "Yorkshire",
     "types": ["city"]
+  },
+  {
+    "id": 7,
+    "address": "Penzance, UK",
+    "coords": [],
+    "region": "Cornwall",
+    "types": ["city", "seaside"],
+    "time": {
+      "duration": "48h"
+    }
+  },
+  {
+    "id": 8,
+    "address": "St. Ives, UK",
+    "coords": [],
+    "region": "Cornwall",
+    "types": ["city", "seaside"],
+    "time": {
+      "duration": "24h"
+    }
+  },
+  {
+    "id": 9,
+    "address": "Hugh Town, Isles of Scilly, UK",
+    "coords": [],
+    "region": "Cornwall",
+    "types": ["outdoor", "seaside"],
+    "time": {
+      "duration": "12h"
+    }
+  },
+  {
+    "id": 10,
+    "address": "Padstow, UK",
+    "coords": [],
+    "region": "Cornwall",
+    "types": ["city", "seaside"],
+    "time": {
+      "duration": "24h"
+    }
   }
 ]

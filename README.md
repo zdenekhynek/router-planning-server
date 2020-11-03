@@ -48,7 +48,7 @@ Create an `.env` file in the project root with TFL API credentials similar to
 GOOGLE_API_KEY=<your_google_api_key>
 ```
 
-## Development
+## Development
 
 Run
 

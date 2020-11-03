@@ -40,7 +40,7 @@ export default function calculateJourney(places, dates) {
 
   //  @TODO - reshuffle places
   const orderedPlaces = places;
-
+  
   //  add first place to the end as a final destination
   if (places.length) {
     orderedPlaces.push(places[0]);
