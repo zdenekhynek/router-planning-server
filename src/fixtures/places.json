@@ -95,5 +95,65 @@
     "time": {
       "duration": "24h"
     }
+  },
+  {
+    "id": 11,
+    "address": "Bristol, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["city", "seaside"],
+    "time": {
+      "duration": "48h"
+    }
+  },
+  {
+    "id": 11,
+    "address": "Bath, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["city"],
+    "time": {
+      "duration": "24h"
+    }
+  },
+  {
+    "id": 12,
+    "address": "Chippenham, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["rural", "outdoor"],
+    "time": {
+      "duration": "12h"
+    }
+  },
+  {
+    "id": 13,
+    "address": "Lacock Village and Abbey, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["rural", "outdoor"],
+    "time": {
+      "duration": "6h"
+    }
+  },
+  {
+    "id": 14,
+    "address": "Frome, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["rural", "city"],
+    "time": {
+      "duration": "24h"
+    }
+  },
+  {
+    "id": 15,
+    "address": "Devizes, UK",
+    "coords": [],
+    "region": "West Country",
+    "types": ["rural", "outdoor"],
+    "time": {
+      "duration": "12h"
+    }
   }
 ]
